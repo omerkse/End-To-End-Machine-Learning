@@ -1,0 +1,735 @@
+Asilabilir_Engel_Seviyesi,Haritalandirma,Hazne_Kapasitesi,Uygulama_Uzerinden_Kontrol,Yer_Silme_Ozelligi,Calisma_Modu_Sayisi,Ozellik,Sarjli_Kullanim_Suresi,url,price
+2 ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//xiaomi/mi-robot-vakumlu-paspas-mop-2-pro-beyaz-yeni-model-p-242734198?boutiqueId=620489&merchantId=968,9299.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//roborock/s8-sonic-mopping-akilli-robot-supurge-s8-beyaz-p-738610666?boutiqueId=61&merchantId=107533,18499.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//roborock/s8-sonic-robot-black-p-780960669?boutiqueId=61&merchantId=104683,17099.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//roidmi/eve-plus-akilli-cop-istasyonlu-robot-vacuum-mop-supurge-roidmi-turkiye-garantili-p-56146303?boutiqueId=620489&merchantId=968&advertItems=eyJhZHZlcnRJZCI6IjcwMjNlNjY2LTVkYzItNDVmMi1hZTVmLTBmMTEwMjU5YjEwOCIsInNvcnRpbmdTY29yZSI6MC4yMDY0MzE5NDMxNzgxNzY5LCJhZFNjb3JlIjowLjA0NjkxNjM1MDcyMjMxMjkzLCJhZFNjb3JlcyI6eyIxIjowLjA0NjkxNjM1MDcyMjMxMjkzLCIyIjowLjA0NjkxNjM1MDcyMjMxMjkzfSwiY3BjIjo0LjQsIm1pbkNwYyI6MC4wMSwiZUNwYyI6MS41NjQ4Njk5MTc2MTUyNDc5LCJhZHZlcnRTbG90IjoxLCJvcmRlciI6MywiYXR0cmlidXRlcyI6IiJ9,14499.0
+1 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//roborock/q7-max-beyaz-akilli-robot-supurge-p-316610701?boutiqueId=61&merchantId=107492,14599.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//fakir/robert-rs-770-akilli-robot-supurge-p-121396015?boutiqueId=61&merchantId=115591,10390.0
+2,Lazer,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//philips/3000-serisi-islak-kuru-moplu-beyaz-robot-supurge-4000-pa-sert-zemin-ve-haliya-uygun-p-698402665?boutiqueId=61&merchantId=864025,11299.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//simart-teknoloji/simart-katya-z-akilli-robot-supurge-p-673805588?boutiqueId=61&merchantId=790294&advertItems=eyJhZHZlcnRJZCI6Ijg3YjMzYmRkLWVlOTEtNDRkZi04MTIzLTA0N2YxY2EzN2U3ZSIsInNvcnRpbmdTY29yZSI6MC4wNzI0Nzk2NTUxNzY0MDExNSwiYWRTY29yZSI6MC4wMjE2NzQ1MzgwMzEyMjA0MzYsImFkU2NvcmVzIjp7IjEiOjAuMDIxNjc0NTM4MDMxMjIwNDM2LCIyIjowLjAyMTY3NDUzODAzMTIyMDQzNn0sImNwYyI6My4zNDQwMDAwMDAwMDAwMDAzLCJtaW5DcGMiOjAuMDEsImVDcGMiOjIuMTU1NTAxOTczMjEwNDcyMywiYWR2ZXJ0U2xvdCI6Miwib3JkZXIiOjcsImF0dHJpYnV0ZXMiOiIifQ==,7999.0
+2 ,Kamera ,500-1000,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//xiaomi/mi-robot-vacuum-mop-2-beyaz-2022-model-p-251062592?boutiqueId=61&merchantId=427236,8470.0
+2,Lazer,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/robot-vacuum-s10-robot-supurge-yeni-model-2023-p-733153362?boutiqueId=61&merchantId=514600,11499.0
+2,Lazer,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/mi-robot-vacuum-mop-2-pro-p-75201218?boutiqueId=61&merchantId=200893,11399.0
+2 ,Lazer ,0-250,Var,Var,2,Robot,120,https://www.trendyol.com//dreame/bot-l10-ultra-robot-supurge-p-764941685?boutiqueId=61&merchantId=593584&advertItems=eyJhZHZlcnRJZCI6ImZhYmI3MzY1LWEwYTQtNDI1OC05ZmQ4LTgwNTlhNWZmYzNhZiIsInNvcnRpbmdTY29yZSI6MC4wNDYyODYwMjEyOTIyMDk2MywiYWRTY29yZSI6MC4wMjc2ODMwMjcwODg2NDIxMiwiYWRTY29yZXMiOnsiMSI6MC4wMjc2ODMwMjcwODg2NDIxMiwiMiI6MC4wMjc2ODMwMjcwODg2NDIxMn0sImNwYyI6MS42NzIwMDAwMDAwMDAwMDAyLCJtaW5DcGMiOjAuMDEsImVDcGMiOjAuODUxNzY0MjkxMjY1OTY2NCwiYWR2ZXJ0U2xvdCI6Mywib3JkZXIiOjExLCJhdHRyaWJ1dGVzIjoiIn0=,28999.0
+2 ,Lazer ,500-1000,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//xiaomi/mi-robot-vacuum-mop-2-ultra-siyah-2022-model-p-251052134?boutiqueId=61&merchantId=668231,8850.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//trouver/finder-lds-sensorlu-vacuum-mop-robot-supurge-beyaz-rls3-p-71322858?boutiqueId=61&merchantId=712251,3999.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//roborock/q7-max-siyah-akilli-robot-supurge-p-316611458?boutiqueId=61&merchantId=683199,14500.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//dreame/bot-l10s-pro-robot-supurge-p-639417973?boutiqueId=61&merchantId=593584&advertItems=eyJhZHZlcnRJZCI6ImZhYmI3MzY1LWEwYTQtNDI1OC05ZmQ4LTgwNTlhNWZmYzNhZiIsInNvcnRpbmdTY29yZSI6MC4wMjMwMjU3NTI1Mjk1MDE5MTgsImFkU2NvcmUiOjAuMDEzNzcxMzgzMDkxODA3MzY1LCJhZFNjb3JlcyI6eyIxIjowLjAxMzc3MTM4MzA5MTgwNzM2NSwiMiI6MC4wMTM3NzEzODMwOTE4MDczNjV9LCJjcGMiOjEuNjcyMDAwMDAwMDAwMDAwMiwibWluQ3BjIjowLjAxLCJlQ3BjIjoxLjM4Mzk1NDMwODgwNjUxNywiYWR2ZXJ0U2xvdCI6NCwib3JkZXIiOjE1LCJhdHRyaWJ1dGVzIjoiIn0=,12899.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//xiaomi/mi-robot-vacuum-s10t-8000pa-akilli-robot-supurge-p-458904548?boutiqueId=61&merchantId=514600,12149.0
+2,Lazer,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/mi-robot-vacuum-mop-2c-robot-supurge-yeni-versiyon-2022-p-245156705?boutiqueId=61&merchantId=872295,9060.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//xiaomi/mi-robot-vakumlu-paspas-mop-2-pro-akilli-robot-supurge-siyah-yeni-model-p-242484798?boutiqueId=620489&merchantId=968,9299.0
+2 ,Lazer ,0-250,Yok,Var,3,Robot,120,https://www.trendyol.com//dreame/bot-l10s-ultra-robot-supurge-p-702177445?boutiqueId=61&merchantId=593584&advertItems=eyJhZHZlcnRJZCI6ImZhYmI3MzY1LWEwYTQtNDI1OC05ZmQ4LTgwNTlhNWZmYzNhZiIsInNvcnRpbmdTY29yZSI6MC4wMTg3ODM1MzgxNzc2MDk0NDcsImFkU2NvcmUiOjAuMDExMjM0MTczNTUxMjAxODIsImFkU2NvcmVzIjp7IjEiOjAuMDExMjM0MTczNTUxMjAxODIsIjIiOjAuMDExMjM0MTczNTUxMjAxODJ9LCJjcGMiOjEuNjcyMDAwMDAwMDAwMDAwMiwibWluQ3BjIjowLjAxLCJlQ3BjIjowLjAxLCJhZHZlcnRTbG90Ijo1LCJvcmRlciI6MTksImF0dHJpYnV0ZXMiOiIifQ==,29999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//360/360-s9-vacuum-mop-pro-cleaner-akilli-robot-supurge-p-49262589?boutiqueId=61&merchantId=106198,6199.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//samsung/vr5000rm-ince-tasarimli-robot-supurge-vr05r5050wg-p-99971567?boutiqueId=61&merchantId=327475,5895.0
+2 ,Lazer ,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//360/360-s10-vacuum-mop-cleaner-akilli-robot-supurge-p-107149711?boutiqueId=61&merchantId=815646,8700.0
+1 ,Yok,250-500,Yok,Yok,3,Robot,120,https://www.trendyol.com//roborock/q7-max-plus-beyaz-akilli-robot-supurge-p-316611327?boutiqueId=61&merchantId=106198,19999.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//hutt/ddc55-cam-silme-robotu-ddc55-p-107446686?boutiqueId=61&merchantId=106994,6930.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//ecovacs/deebot-n8-beyaz-renk-akilli-robot-supurge-ve-paspas-turkiye-garantili-p-248193384?boutiqueId=61&merchantId=702771,5999.0
+3 ,Jiroskop ,250-500,Var,Var,2,Robot,120,https://www.trendyol.com//viomi/v5-akilli-robot-supurge-p-737951550?boutiqueId=61&merchantId=314538,5558.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//roborock/roboroc-s5-max-robot-supurge-beyaz-p-40449299?boutiqueId=61&merchantId=635356,43000.0
+2 ,Jiroskop ,0-250,Var,Var,2,Robot,120,https://www.trendyol.com//kiwi/akilli-robot-supurge-islak-kuru-robot-vacuum-mop-kvc-4090-p-762926497?boutiqueId=61&merchantId=109616,5495.0
+2 ,Lazer ,250-500,Var,Var,2,Robot,120,https://www.trendyol.com//roborock/vacuum-cleanner-q8-max-robot-supurge-beyaz-p-775760751?boutiqueId=620489&merchantId=968,16519.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//simart-teknoloji/simart-katya-z-akilli-robot-supurge-p-673805588?boutiqueId=61&merchantId=790294,7999.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/mi-s10-plus-hali-tanimali-donerek-paspas-ile-robot-vakumm-4000-pa-emis-genpa-garantili-p-769148134?boutiqueId=61&merchantId=566427,12899.0
+2 ,Lazer ,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//soultech/rb002-akilli-temizleme-robotu-vacuum-mop-p-239460415?boutiqueId=61&merchantId=877048,4840.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//homend/alex-laser-pro-1283h-beyaz-moplu-ve-haritalamali-akilli-robot-supurge-p-277114312?boutiqueId=61&merchantId=230835,7299.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//tefal/rg7675-x-plorer-serie-75-mop-ozellikli-akilli-robot-supurge-evcil-hayvan-dostu-p-129896203?boutiqueId=61&merchantId=433342,8626.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//roborock/s7-robot-supurge-ve-paspas-beyaz-p-117349144?boutiqueId=61&merchantId=887420,47500.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//yeedi/vac-2-pro-beyaz-renk-akilli-robot-supurge-ve-paspas-resmi-distributor-garantili-p-316565799?boutiqueId=61&merchantId=211217,53732.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/7000-islak-kuru-robot-supurge-5000-pa-titresimli-mop-sert-zemin-ve-haliya-uygun-xu7000-02-p-682357048?boutiqueId=61&merchantId=4513,18999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//dreame/bot-d10-plus-akilli-robot-supurge-p-349171744?boutiqueId=61&merchantId=104871,11349.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//samsung/vr3mb77312k-tr-akilli-robot-supurge-abanoz-siyahi-p-696943025?boutiqueId=61&merchantId=106248,9249.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/3000-serisi-islak-kuru-moplu-siyah-robot-supurge-4000-pa-sert-zemin-ve-haliya-uygun-p-704503109?boutiqueId=61&merchantId=514600,11999.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//lydsto/g1-akilli-robot-supurge-ve-paspas-5-lt-airfryer-hediyeli-p-778375249?boutiqueId=61&merchantId=217399,6999.0
+1 ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//dreame/robot-supurge-bot-d9-max-dd9mbtx-uyumlu-p-205138417?boutiqueId=61&merchantId=514600,8899.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//grundig/vcr-6230-robot-supurge-p-456637941?boutiqueId=61&merchantId=727277,7920.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//arcelik/imperium-robo-rs-3221-robot-supurge-p-472915389?boutiqueId=61&merchantId=329523,7799.0
+2 ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//roborock/s8-plus-robot-beyaz-supurge-p-752645244?boutiqueId=61&merchantId=106895,28519.0
+2 ,Lazer ,0-250,Var,Var,2,Robot,120,https://www.trendyol.com//roborock/s7-max-ultra-p-761305675?boutiqueId=61&merchantId=413566,37805.0
+2 ,Lazer ,500-1000,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//homend/alex-laser-1281h-moplu-ve-haritalamali-akilli-robot-supurge-2023-model-beyaz-p-148999728?boutiqueId=61&merchantId=727277,7720.0
+2 ,Lazer ,0-250,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//tefal/rg8577-x-plorer-serie-75-s-mop-ozellikli-akilli-robot-supurge-beyaz-p-654266299?boutiqueId=61&merchantId=661093,10425.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//dreame/bot-l10s-pro-robot-supurge-p-639417973?boutiqueId=61&merchantId=593584,12899.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/3000-serisi-islak-kuru-moplu-siyah-istasyonlu-robot-supurge-4000-pa-sert-zemin-ve-haliya-uygun-p-704500817?boutiqueId=61&merchantId=521664,16999.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/mi-robot-vacuum-mop-pro-cleaner-robot-supurge-ve-paspas-beyaz-p-36502435?boutiqueId=61&merchantId=601117,13999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//yui/s7-plus-akilli-cop-istasyonlu-robot-vacuum-mop-supurge-beyaz-yui-turkiye-garantili-p-645340208?boutiqueId=620489&merchantId=968,11799.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/3000-serisi-islak-kuru-moplu-beyaz-robot-supurge-4000-pa-sert-zemin-ve-haliya-uygun-p-708129872?boutiqueId=61&merchantId=801610,18885.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//roborock/vacuum-cleanner-q8-max-robot-supurge-siyah-p-775739895?boutiqueId=620489&merchantId=968,16519.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//wiami/fx-10-robot-supurge-siyah-p-276974486?boutiqueId=61&merchantId=113711,7377.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//viomi/v3-vacuum-cleaner-lazer-sensor-robot-supurge-ve-paspas-p-44336052?boutiqueId=620489&merchantId=968,8379.0
+2 ,Lazer ,0-250,Var,Yok,3,Robot,120,https://www.trendyol.com//xiaomi/x10-robot-supurge-beyaz-p-777860388?boutiqueId=61&merchantId=107870,27799.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//fakir/robert-rs-780-titresim-moplu-akilli-robot-supurge-p-640310008?boutiqueId=61&merchantId=449692,13997.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//karcher/rcv-5-robot-supurge-12696400-p-635146755?boutiqueId=61&merchantId=115591,16079.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//roborock/s7-pro-ultra-beyaz-cop-istasyonlu-yikamali-akilli-robot-supurge-p-364212664?boutiqueId=61&merchantId=601117,55999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//yui/s7-nomopzone-ozellikli-akilli-robot-vacuum-mop-supurge-beyaz-yui-turkiye-garantili-p-645274112?boutiqueId=620489&merchantId=968,8399.0
+2,Lazer,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/dreametech-f9-robot-supurge-ve-paspas-mi-home-kontrollu-2022-yeni-model-p-239459560?boutiqueId=61&merchantId=106895,8299.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//robx/r7-uv-sterilizasyon-akili-cop-bosaltma-uniteli-vacuum-mop-robot-supurge-turkiye-garantili-p-127495637?boutiqueId=61&merchantId=108009,13795.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//arcelik/imperium-robo-rs-9131-robot-supurge-p-350508716?boutiqueId=61&merchantId=329523,14849.0
+2 ,Jiroskop ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//grundig/vcr-4230-robot-supurge-p-669055615?boutiqueId=61&merchantId=112879,5590.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/7000-islak-kuru-robot-supurge-5000-pa-titresimli-mop-sert-zemin-ve-haliya-uygun-xu7000-01-p-683847607?boutiqueId=61&merchantId=335992,19195.0
+3 ,Jiroskop ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//viomi/v5-pro-vakum-cleaner-akilli-robot-supurge-p-216683161?boutiqueId=61&merchantId=472332,8880.0
+3 ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//tefal/rg9075-x-plorer-serie-130-ai-evcil-hayvan-dostu-akilli-robot-supurge-p-669631875?boutiqueId=61&merchantId=567695,13999.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//dreame/vacuum-mop-f9-robot-supurge-dreame-turkiye-garantili-p-49107522?boutiqueId=61&merchantId=106895,7999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//tcl/sweeva-6000m-moplu-siyah-akilli-robot-supurge-resmi-distributor-garantili-p-462214483?boutiqueId=61&merchantId=120477,7447.0
+1 ,Yok,1500+,Var,Yok,1,Toz Torbasız,0 - 30,https://www.trendyol.com//roborock/s7-robot-supurge-otomatik-cop-bosaltma-p-463872421?boutiqueId=620489&merchantId=968,5499.0
+2 ,Lazer ,1500+,Var,Var,3,Robot,120,https://www.trendyol.com//icotech/f10-max-plus-ai-10000-pa-yapay-zekali-titresimli-mop-toz-istasyonlu-akilli-robot-supurge-p-755950537?boutiqueId=61&merchantId=851340,22999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//viomi/viomi-v5-pro-akilli-robot-supurge-p-230975878?boutiqueId=61&merchantId=314538,8885.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/mi-robot-vacuum-mop-2-lite-p-262612534?boutiqueId=61&merchantId=860637,8400.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//roborock/s6-maxv-ai-dual-cam-2-in-1-robot-supurge-p-47584524?boutiqueId=61&merchantId=514600,29999.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//ecovacs/deebot-t9-beyaz-renk-akilli-robot-supurge-ve-paspas-turkiye-garantili-p-248192965?boutiqueId=61&merchantId=472332,12199.0
+3 ,Jiroskop ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//dreame/mop-d9-robot-supurge-p-70200966?boutiqueId=61&merchantId=726621,9839.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//tcl/sweeva-6500-siyah-robot-supurge-turkiye-garantili-p-304298697?boutiqueId=61&merchantId=147861,9999.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//roborock/s8-6000-pa-emis-guclu-titresimli-paspaslama-ile-robot-vakum-xiaomi-tr-garantilidir-p-785753233?boutiqueId=61&merchantId=186468,21999.0
+2 ,Lazer ,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//sunny/hero-extra-robot-supurge-beyaz-p-656029208?boutiqueId=61&merchantId=533472,5919.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/mi-robot-vacuum-mop-2-pro-beyaz-p-645935276?boutiqueId=61&merchantId=566427,9799.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//viomi/v2-pro-akilli-robot-supurge-p-40276228?boutiqueId=620489&merchantId=968,76794.0
+2 ,Yok,0-250,Yok,Var,1,Robot,30 - 60,https://www.trendyol.com//home/mini-akilli-robot-supurge-p-758741529?boutiqueId=61&merchantId=848576,2099.0
+2 ,Yok,250-500,Var,Yok,3,Robot,60 - 120,https://www.trendyol.com//vestel/v-bot-robot-supurge-p-115617818?boutiqueId=61&merchantId=105334,3980.0
+2 ,Kamera ,500-1000,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//xiaomi/mi-robot-vacuum-mop-2-akilli-robot-supurge-ve-paspas-2022-model-p-279239046?boutiqueId=61&merchantId=637688,8850.0
+2 ,Lazer ,0-250,Var,Yok,3,Robot,120,https://www.trendyol.com//dreame/bot-d10s-5000pa-emis-gucu-robot-supurge-mop-p-702382176?boutiqueId=61&merchantId=412540,10879.0
+2 ,Jiroskop ,250-500,Var,Var,2,Robot,120,https://www.trendyol.com//karcher/rcv-3-akilli-robot-supurge-p-637422462?boutiqueId=61&merchantId=112435,11799.0
+2 ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//roborock/s8-pro-ultra-siyah-istasyonlu-robot-supurge-ve-sonic-paspas-p-757390338?boutiqueId=61&merchantId=167992,45299.0
+2 ,Lazer ,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//tcl/sweeva-6500m-mop-rob-supurge-dustbox-p-469422561?boutiqueId=61&merchantId=868897,8999.0
+2 ,Lazer ,0-250,Var,Var,2,Robot,120,https://www.trendyol.com//dreame/bot-l10-ultra-robot-supurge-p-764941685?boutiqueId=61&merchantId=593584,28999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//wiami/fx-9-pro-robot-supurge-p-475130517?boutiqueId=61&merchantId=887420,11999.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//roborock/q7-max-plus-siyah-akilli-robot-supurge-p-316617998?boutiqueId=61&merchantId=601117,24799.0
+1 ,Yok,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//yues/ys300-akilli-robot-supurge-vakum-paspas-p-254038095?boutiqueId=61&merchantId=558316,2969.0
+2 ,Lazer ,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//dreame/bot-l10-pro-akilli-robot-supurge-beyaz-turkiye-garantili-p-241973624?boutiqueId=61&merchantId=727277,11455.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//tcl/sweeva-6000-siyah-robot-supurge-turkiye-garantili-p-304308445?boutiqueId=61&merchantId=825144,6950.0
+1 ,Yok,0-250,Yok,Yok,3,Robot,0 - 30,https://www.trendyol.com//hutt/c6-cam-temizleme-robotu-p-292058698?boutiqueId=61&merchantId=106994,8759.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//fakir/robert-rs770-akilli-robot-supurge-hercules-baskul-hediyeli-p-708271665?boutiqueId=61&merchantId=112264,13499.0
+4+ ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//homend/alex-laser-pro-1286h-moplu-ve-haritalamali-akilli-robot-supurge-beyaz-silver-p-761576767?boutiqueId=61&merchantId=230835,7299.0
+4+ ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//dreame/w10-pro-robotik-akilli-supurge-beyaz-p-453753581?boutiqueId=61&merchantId=841371,484030.0
+2,Lazer,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//irobot/roomba-i7-acik-gri-robot-supurge-p-34850888?boutiqueId=61&merchantId=222627,12999.0
+2 ,Lazer ,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//vestel/v-bot-pro-robot-supurge-siyah-p-366547829?boutiqueId=620489&merchantId=968,7579.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//lydsto/r1-cop-istasyonlu-akilli-robot-supurge-beyaz-p-88375769?boutiqueId=61&merchantId=217399,12499.0
+2,Lazer,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/mi-vacuum-mop-pro-robot-supurge-ve-paspas-beyaz-p-176743934?boutiqueId=61&merchantId=601117,18999.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//ezere/ceypaks-cam-pencere-temizleme-robotu-cam-silme-fayans-yuzey-temizleme-robotu-p-90366071?boutiqueId=61&merchantId=108498,54518.0
+2 ,Lazer ,1500+,Var,Var,3,Robot,120,https://www.trendyol.com//lydsto/w2-cift-sterilizasyonlu-su-toz-toplama-uniteli-robot-supurge-turkiye-garantili-p-378784153?boutiqueId=61&merchantId=558599,30000.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//arcelik/rs-9121-robot-supurge-siyah-p-410401694?boutiqueId=61&merchantId=667835,11999.0
+2 ,Lazer ,250-500,Var,Var,3,Sulu,120,https://www.trendyol.com//xiaomi/mi-s10t-robot-supurge-8000-pa-guclu-emis-gucu-p-767607544?boutiqueId=61&merchantId=566427,14199.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//peakbay-zirveyi-hisset/cam-pencere-temizleme-robotu-beyaz-cam-silme-fayans-yuzey-dusakabin-temizleme-robotu-p-637358790?boutiqueId=61&merchantId=616755,9999.0
+2 ,Kamera ,250-500,Var,Yok,3,Robot,120,https://www.trendyol.com//miele/scout-rx3-runner-sedefli-bronz-spql-robot-supurge-p-239269749?boutiqueId=61&merchantId=109324,26999.0
+1 ,Yok,0-250,Yok,Var,3,Robot,120,https://www.trendyol.com//ezere/cam-pencere-temizleme-robotu-cam-silme-fayans-yuzey-temizleme-robotu-beyaz-p-302189181?boutiqueId=61&merchantId=110108,48299.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//360/botslab-vacuum-robot-supurge-s8-beyaz-p-182530683?boutiqueId=61&merchantId=107468,6549.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//beko/2700-pa-3200-mah-wi-fi-baglantisi-170-dk-calisma-suresi-islak-kuru-moplu-robot-supurge-beyaz-p-750380185?boutiqueId=61&merchantId=766219,8289.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//ecovacs/deebot-n8-pro-beyaz-renk-akilli-robot-supurge-ve-paspas-resmi-distributor-garantili-p-316603783?boutiqueId=61&merchantId=472332,9399.0
+2 ,Lazer ,1500+,Var,Var,3,Robot,120,https://www.trendyol.com//beko/rs-8131-robot-supurge-toz-bosaltma-sistemli-p-350047187?boutiqueId=61&merchantId=122689,14399.0
+2 ,Lazer ,1500+,Var,Var,3,Robot,120,https://www.trendyol.com//roborock/g10-beyaz-cop-istasyonlu-yikamali-akilli-robot-supurge-p-364239420?boutiqueId=61&merchantId=820455,20500.0
+2 ,Lazer ,500-1000,Var,Var,2,Robot,120,https://www.trendyol.com//sunny/hero-power-plus-moplu-akilli-robot-supurge-p-349877971?boutiqueId=61&merchantId=533472,7179.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/premium-3d-engellerden-kacinma-cift-ped-basincli-paspas-ozelligi-robot-supurge-p-784358278?boutiqueId=61&merchantId=881452,194645.0
+4+ ,Lazer ,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//fakir/robert-rs-740-akilli-robot-supurge-p-767762313?boutiqueId=61&merchantId=106392,8739.0
+1 ,Yok,250-500,Var,Yok,3,Robot,120,https://www.trendyol.com//hutt/xiaomi-ddc55-akilli-cam-temizleme-robotu-p-196055034?boutiqueId=61&merchantId=106994,7490.0
+3 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/homerun-7000-serisi-3-u-1-arada-islak-kuru-ve-moplu-5000pa-ultra-yuksek-emis-gucu-robot-supurge-p-776684410?boutiqueId=61&merchantId=109514,377999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//tefal/x-plorer-serie-i-evcil-hayvan-dostu-ve-akilli-robot-supurge-siyah-p-782552825?boutiqueId=61&merchantId=197550,18699.0
+4+ ,Lazer ,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/viomi-v2-pro-vacuum-cleaner-lazer-sensor-p-783425197?boutiqueId=61&merchantId=823058,9999.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//arcelik/rs-3121-robot-supurge-p-157000408?boutiqueId=61&merchantId=637688,9899.0
+2 ,Lazer ,0-250,Var,Var,2,Sulu,120,https://www.trendyol.com//xiaomi/mi-s10-robot-supurge-p-767602026?boutiqueId=61&merchantId=566427,13099.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//irobot/roomba-i7-robot-supurge-p-33093643?boutiqueId=61&merchantId=222627,17349.0
+2 ,Lazer ,0-250,Yok,Var,3,Robot,120,https://www.trendyol.com//roborock/s8-plus-robot-siyah-supurge-p-767218315?boutiqueId=61&merchantId=107870,29999.0
+1 ,Lazer ,0-250,Var,Yok,3,Dikey,60 - 120,https://www.trendyol.com//neutron/neutrobot-akilli-otonom-servis-robotu-p-675468755?boutiqueId=61&merchantId=794365,289000.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//roborock/q8-max-5500-pa-cift-merdaneli-emis-guclu-paspaslama-ile-robot-vakum-xiaomi-tr-garantilidir-p-785788856?boutiqueId=61&merchantId=186468,20500.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//arcelik/imperium-robo-3-0-rs-9131-robot-supurge-p-450312647?boutiqueId=61&merchantId=787360,15000.0
+3 ,Lazer ,500-1000,Var,Yok,3,Robot,120,https://www.trendyol.com//homend/alex-laser-pro-1286h-moplu-ve-haritalamali-akilli-robot-supurge-beyaz-gold-p-782563136?boutiqueId=61&merchantId=230835,9999.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//viomi/robot-vacuum-s9-beyaz-p-68781702?boutiqueId=61&merchantId=449692,12499.0
+3 ,Lazer ,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/mi-robot-mop-2-pro-akilli-robot-supurge-siyah-2022-yeni-model-6934177747236-p-299420190?boutiqueId=61&merchantId=514600,9579.0
+1 ,Yok,0-250,Yok,Yok,3,Robot,60 - 120,https://www.trendyol.com//tamamelek/ximeijie-kumandali-robot-supurge-p-299442290?boutiqueId=61&merchantId=253966,2100.0
+2 ,Lazer ,500-1000,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//homend/alex-laser-pro-1283h-siyah-moplu-ve-haritalamali-akilli-robot-supurge-p-376710277?boutiqueId=61&merchantId=116849,7399.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//homend/alex-laser-power-1287h-toz-hazneli-moplu-hali-taniyan-robot-supurge-p-765171699?boutiqueId=61&merchantId=230835,16999.0
+2 ,Lazer ,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//lydsto/w2-lite-8000-pa-sterilizasyonlu-su-toz-toplama-uniteli-yapay-zeka-robot-supurge-p-769559545?boutiqueId=61&merchantId=217399,27999.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//fantom/galaxy-xy-38-temizlik-robotu-p-101417741?boutiqueId=61&merchantId=287746,10699.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/mi-robot-vakum-s10t-8000-pa-emis-gucu-2023-model-tr-garantili-p-470291307?boutiqueId=61&merchantId=566427,14189.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//karcher/rcv-5-robot-supurge-p-743383996?boutiqueId=61&merchantId=216045,21000.0
+2 ,Yok,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//lydsto/g1-akilli-robot-supurge-ve-paspas-beyaz-turkiye-garantili-p-279809640?boutiqueId=61&merchantId=217399,5599.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//neabot/nomo-q11-toz-hazneli-4000-pa-akilli-robot-supurge-turkiye-garantili-p-117462196?boutiqueId=61&merchantId=109844,15999.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//irobot/roomba-s9-plus-robot-supurge-p-40939920?boutiqueId=61&merchantId=230167,31145.0
+2 ,Lazer ,0-250,Var,Var,2,Robot,120,https://www.trendyol.com//eufy/anker-robovac-x8-hybrid-akilli-robot-supurge-p-220399540?boutiqueId=61&merchantId=449692,12433.0
+2 ,Lazer ,1500+,Var,Var,3,Sulu,120,https://www.trendyol.com//philips/islak-ve-kuru-temizlik-yuksek-emis-lazer-navigasyon-kir-bosaltma-3000-seri-robot-supurge-p-774210712?boutiqueId=61&merchantId=153143,222179.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/vacuum-e10-robot-supurge-beyaz-p-757342861?boutiqueId=61&merchantId=541766,9070.0
+3 ,Yok,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//makita/drc200z-ticari-tip-robot-supurge-akulu-robot-zemin-supurgesi-aku-dahil-degildir-p-332648240?boutiqueId=61&merchantId=420435,692382.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//midea/robot-vacuum-cleaner-m9-beyaz-resmi-distributor-garantili-p-722724564?boutiqueId=61&merchantId=107277,8199.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//roborock/s6-pure-akilli-robot-supurge-siyah-p-51107727?boutiqueId=61&merchantId=889095,19999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//xiaomi/mi-robot-vacuum-mop-2-pro-2022-model-p-266901121?boutiqueId=61&merchantId=637688,9617.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//dreame/bot-z10-pro-istasyonlu-robot-supurge-siyah-p-185348489?boutiqueId=61&merchantId=195875,194999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//beko/rs-8121-robot-supurge-p-446402421?boutiqueId=61&merchantId=348120,9999.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//beko/robo-x-rs-2121-p-159275240?boutiqueId=61&merchantId=869282,8999.0
+2 ,Lazer ,1500+,Var,Var,3,Robot,120,https://www.trendyol.com//philips/islak-ve-kuru-temizlik-robotu-otomatik-bosaltma-istasyonu-xu3110-02-homerun-3000-serisi-aqua-p-753327771?boutiqueId=61&merchantId=531586,19450.0
+2 ,Yok,500-1000,Yok,Var,3,Robot,60 - 120,https://www.trendyol.com//reeder/alfreed-akilli-robot-supurge-p-172688730?boutiqueId=61&merchantId=107676,5999.0
+2 ,Yok,1000-1500,Var,Var,3,Robot,120,https://www.trendyol.com//arcelik/imperium-robo-rs-3221-robot-supurge-p-728243254?boutiqueId=61&merchantId=797411,7950.0
+2 ,Lazer ,1000-1500,Var,Var,3,Robot,120,https://www.trendyol.com//ttec/robi-promaster-5200mah-bataryali-otomatik-toz-bosaltma-sistemli-akilli-robot-supurge-ve-paspas-p-339352294?boutiqueId=61&merchantId=577896,11090.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//anker/eufy-robovac-lr30-hybrid-supurge-t2193-p-635142589?boutiqueId=61&merchantId=143549,10899.0
+2 ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//viomi/alfa2-robot-supurge-p-248248060?boutiqueId=61&merchantId=472332,12499.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//karcher/kb-5-kablosuz-pratik-supurge-p-118011903?boutiqueId=61&merchantId=128165,2699.0
+2,Lazer,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/mi-robot-1c-vacuum-mop-robot-supurge-p-176743935?boutiqueId=61&merchantId=504544,15599.0
+2 ,Lazer ,0-250,Var,Var,2,Robot,120,https://www.trendyol.com//karaca/vantuz-off-road-rs007-2-in-1-mop-and-vacuum-konusan-robot-supurge-p-358887216?boutiqueId=61&merchantId=711227,12099.0
+1 ,Yok,0-250,Var,Yok,1,Sulu,60 - 120,https://www.trendyol.com//ecovacs/winbot-w1-pro-cam-silme-robotu-p-739235203?boutiqueId=61&merchantId=541577,12350.0
+1 ,Yok,0-250,Var,Var,3,Robot,0 - 30,https://www.trendyol.com//hobot/2s-cam-temizleme-fayans-silme-robotu-dual-ultrasonik-sprey-tlf-ve-uzaktan-kumanda-ile-kont-p-235820378?boutiqueId=61&merchantId=167560,209999.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//grundig/vcr-7230-otomatik-toz-bosaltma-sistemli-robot-supurge-p-376417136?boutiqueId=61&merchantId=232232,14900.0
+2,Lazer,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/mi-robot-vaccum-mop-2-supurge-turkiye-garantili-2022-model-uzunkaya-garantili-p-273967076?boutiqueId=61&merchantId=273323,8699.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//homend/alex-laser-power-1284h-moplu-ve-haritalamali-akilli-toz-ceken-robot-supurge-p-317801982?boutiqueId=61&merchantId=116993,15599.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//irobot/roomba-606-robot-supurge-p-33093641?boutiqueId=61&merchantId=467607,13599.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//roborock/vacuum-cleanner-q8-max-plus-robot-supurge-beyaz-p-778061270?boutiqueId=61&merchantId=106895,25999.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//omix/omix-mixbot-plus-robot-supurge-beyaz-p-299673546?boutiqueId=61&merchantId=106299,5549.0
+4+ ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//roborock/q5-pro-plus-cop-istasyonlu-akilli-robot-supurge-p-786028446?boutiqueId=61&merchantId=149251,20259.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//viomi/v2-pro-robot-supurge-garantili-p-166595174?boutiqueId=61&merchantId=449692,8299.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//beko/rs-2221-robot-supurge-p-475717976?boutiqueId=61&merchantId=266169,8499.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//arcelik/imperium-robo-rs-3221-robot-supurge-p-761240927?boutiqueId=61&merchantId=614180,87490.0
+4+ ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//omix/omix-mixbot-pro-robot-supurge-beyaz-p-303650325?boutiqueId=61&merchantId=607180,6366.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//hellove/supurge-koruyucu-xiaomi-vacuum-mop-1c-beyaz-yuzey-sticker-cizilme-onleyici-etiket-maskeleyici-p-402058016?boutiqueId=61&merchantId=116512,1999.0
+1 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/philips-avantaj-set-xu3000-3000pa-robot-supurge-hd9870-premium-airfry-xxl-7-2-litre-p-771945103?boutiqueId=61&merchantId=153143,275489.0
+1 ,Yok,0-250,Var,Var,3,Toz Torbasız,120,https://www.trendyol.com//hobot/r3-cam-temizleme-fayans-silme-robotu-dual-sprey-ozellikli-cep-telefonu-uygulama-p-734405847?boutiqueId=61&merchantId=167560,208999.0
+2 ,Kamera ,250-500,Var,Yok,3,Robot,120,https://www.trendyol.com//miele/scout-rx3-siyah-spql-robot-supurge-p-202258121?boutiqueId=61&merchantId=108107,19799.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/3d-engellerden-kacinma-cift-hatli-lazer-ve-lds-lidarli-cift-katmanli-paspaspremium-robot-supurge-p-784358266?boutiqueId=61&merchantId=881452,193535.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//fantom/galaxy-xy-38-cyclone-robot-supurge-siyah-p-101750314?boutiqueId=61&merchantId=292436,9870.0
+2 ,Jiroskop ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//grundig/vcr-2131-mop-ozellikli-akilli-robot-supurge-p-159085222?boutiqueId=61&merchantId=106272,11599.0
+3 ,Lazer ,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/mi-robot-vacuum-mop-pro-global-versiyon-robot-supurge-p-334618678?boutiqueId=61&merchantId=601117,18749.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//roborock/s7-cop-uniteli-robot-supurge-p-447644338?boutiqueId=61&merchantId=385093,45000.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//tefal/robot-supurge-explorer-series-s-max-beyaz-p-782552409?boutiqueId=61&merchantId=197550,16899.0
+2 ,Lazer ,500-1000,Var,Var,1,Robot,120,https://www.trendyol.com//homend/alex-laser-pro-1285h-haritalamali-akilli-robot-supurge-beyaz-silver-p-459543352?boutiqueId=61&merchantId=116849,7799.0
+3 ,Yok,250-500,Yok,Yok,3,Robot,60 - 120,https://www.trendyol.com//bissell/ev675-temizlik-robotu-p-275133315?boutiqueId=61&merchantId=357608,6999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//tefal/mop-ozellikli-akilli-robot-supurge-beyaz-fritoz-airfryer-hava-ile-kizartma-izgara-p-669755304?boutiqueId=61&merchantId=197550,29899.0
+2 ,Jiroskop ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//irobot/roomba-combo-i8-robot-supurge-ve-paspas-p-736414494?boutiqueId=61&merchantId=222627,20499.0
+1 ,Lazer ,1500+,Var,Var,3,Robot,120,https://www.trendyol.com//yeedi/vac-2-pro-beyaz-renk-akilli-robot-supurge-ve-paspas-p-753327418?boutiqueId=61&merchantId=782378,8999.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/mijia-hutt-w55-cam-temizleme-robotu-p-43460697?boutiqueId=61&merchantId=159336,10999.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//dreame/d10-plus-robot-supurge-tr-garantili-p-376476517?boutiqueId=61&merchantId=732265,13999.0
+2 ,Lazer ,500-1000,Var,Var,2,Robot,60 - 120,https://www.trendyol.com//cvs/roboto-nav-smart-robot-supurge-p-455830572?boutiqueId=61&merchantId=434086,4999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//tefal/robot-supurge-explorer-series-s-max-beyaz-p-782552325?boutiqueId=61&merchantId=197550,16899.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//karaca/homend-alex-pro-1290h-kamerali-akilli-robot-supurge-p-97236379?boutiqueId=61&merchantId=825144,7999.0
+2 ,Lazer ,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//dreame/bot-d9-max-robot-supurge-vakum-ve-paspas-robot-supurge-p-249102862?boutiqueId=61&merchantId=732265,9849.0
+1 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-islak-ve-kuru-robot-supurge-4-adet-xv1430-00-mop-p-751914502?boutiqueId=61&merchantId=106320,14149.0
+4+ ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//roborock/q-revo-cop-istasyonlu-beyaz-akilli-robot-supurge-p-784477364?boutiqueId=61&merchantId=106248,36849.0
+2 ,Jiroskop ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//kiwi/2in1-mop-ozellikli-akilli-robot-supurge-p-773549738?boutiqueId=61&merchantId=646092,7499.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//arcelik/robot-supurge-ve-paspas-2-yil-garanti-p-311858575?boutiqueId=61&merchantId=109514,12990.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/7000-islak-kuru-istasyonlu-robot-supurge-5000-pa-titresimli-mop-sert-zemin-hali-xu7100-01-p-686132790?boutiqueId=61&merchantId=521664,29999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//roborock/q7-plus-robot-supurge-siyah-p-378074000?boutiqueId=61&merchantId=819642,19000.0
+2 ,Lazer ,0-250,Yok,Var,3,Robot,120,https://www.trendyol.com//dreame/bot-l10s-ultra-robot-supurge-p-702177445?boutiqueId=61&merchantId=593584,29999.0
+2 ,Jiroskop ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//robx/hb01-3300-pa-ruzgar-cekimi-3200-mah-7cm-robot-supurge-turkiye-garantili-p-344631901?boutiqueId=61&merchantId=108009,5199.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-beyaz-p-778032101?boutiqueId=61&merchantId=409995,19999.0
+3 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/islak-ve-kuru-beyaz-robot-supurge-ultra-emis-gucu-5000-pa-lazer-navigasyon-180-dk-calisma-suresi-p-778721744?boutiqueId=61&merchantId=825207,47501.0
+2,Lazer,1500+,Var,Var,3,Robot,120,https://www.trendyol.com//roborock/s7-pro-ultra-beyaz-cop-istasyonlu-robot-supurge-2-yil-genpa-garantili-p-658877462?boutiqueId=61&merchantId=601117,55999.0
+2 ,Jiroskop ,500-1000,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//anker/robovac-g30-hybrid-mop-robot-supurge-p-99685670?boutiqueId=61&merchantId=604207,80352.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//arzum/ar4301-robotek-x2-moplu-akilli-robot-supurge-siyah-p-143143027?boutiqueId=61&merchantId=765943,10999.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//lydsto/s1-d-max-uv-sterilizasyonlu-8000-pa-yapay-zeka-akilli-robot-supurge-p-769923397?boutiqueId=61&merchantId=217399,12669.0
+2 ,Lazer ,1500+,Var,Var,3,Robot,120,https://www.trendyol.com//philips/islak-ve-kuru-temizlik-robotu-otomatik-bosaltma-istasyonu-xu3110-02-homerun-3000-serisi-aqua-p-780273741?boutiqueId=61&merchantId=867514,18990.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//tefal/robot-supurge-explorer-series-s-max-beyaz-p-782552499?boutiqueId=61&merchantId=197550,16899.0
+1 ,Lazer ,0-250,Var,Yok,3,Robot,120,https://www.trendyol.com//360/360-s9-vacuum-mop-cleaner-akilli-robot-supurge-kvk-garantilidir-p-741193406?boutiqueId=61&merchantId=455417,98441.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//yui/s7-plus-akilli-cop-istasyonlu-robot-vacuum-mop-supurge-siyah-yui-turkiye-garantili-p-645301173?boutiqueId=61&merchantId=720599,12999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/mi-robot-mop-2-pro-akilli-robot-supurge-siyah-mi-smart-air-fryer-aile-boyu-6-lt-p-655993290?boutiqueId=61&merchantId=197550,25999.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//fakir/robert-rs-780-plus-cop-istasyonlu-akilli-robot-supurge-p-676274819?boutiqueId=61&merchantId=720,355490.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//xiaomi/mi-robot-vacuum-mop-pro-cleaner-robot-supurge-ve-paspas-p-36502434?boutiqueId=61&merchantId=601117,13177.0
+1 ,Yok,250-500,Yok,Var,3,Robot,120,https://www.trendyol.com//bowai/robot-supurge-1800pa-gri-renk-p-304357140?boutiqueId=61&merchantId=424079,29990.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//king/krs-360-sebastian-robot-supurge-p-145609552?boutiqueId=61&merchantId=699041,4864.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//arcelik/rs-3121-robot-supurge-p-158416038?boutiqueId=61&merchantId=637688,10420.0
+2 ,Jiroskop ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//grundig/vcr-6230-robot-supurge-p-378846430?boutiqueId=61&merchantId=449692,8295.0
+2,Lazer,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//dreame/vacuum-mop-d9-robot-supurge-p-117108135?boutiqueId=61&merchantId=732265,12999.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//lydsto/s1-uv-ve-ozon-sterilizasyonlu-akilli-robot-supurge-ve-paspas-beyaz-turkiye-garantili-p-275981850?boutiqueId=61&merchantId=217399,16999.0
+4+ ,Jiroskop ,250-500,Var,Var,2,Robot,120,https://www.trendyol.com//grundig/vcr-6231-akilli-robot-supurge-p-771155922?boutiqueId=61&merchantId=107870,8999.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//hobot/388-cam-temizleme-fayans-silme-robotu-sprey-ozellikli-cep-telefonu-uygulama-p-67942544?boutiqueId=61&merchantId=167560,177999.0
+2 ,Jiroskop ,1000-1500,Var,Var,2,Robot,120,https://www.trendyol.com//vestel/v-bot-pro-b-robot-supurge-p-781011056?boutiqueId=61&merchantId=245803,13399.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//miele/scout-rx3-home-vision-hd-rosegold-spql-robot-supurge-p-202258114?boutiqueId=61&merchantId=766286,36792.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//homend/alex-1280h-akilli-robot-supurge-p-92900787?boutiqueId=61&merchantId=474850,4980.0
+2 ,Lazer ,500-1000,Var,Var,1,Robot,120,https://www.trendyol.com//vestel/v-bot-pro-robot-supurge-beyaz-p-366621381?boutiqueId=61&merchantId=428200,10490.0
+2 ,Kamera ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//king/krs-360-sebastian-robot-supurge-p-145609593?boutiqueId=61&merchantId=699041,4990.0
+2 ,Lazer ,500-1000,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//xiaomi/trouver-finder-lds-sensorlu-vacuum-mop-robot-supurge-p-112489144?boutiqueId=61&merchantId=685887,11999.0
+2 ,Yok,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//fakir/robot-supurge-beyaz-robert-rs-740-p-767882422?boutiqueId=61&merchantId=215248,10600.0
+2 ,Lazer ,0-250,Var,Var,2,Robot,120,https://www.trendyol.com//roborock/q-revo-toz-hazneli-robot-supurge-p-761306512?boutiqueId=61&merchantId=149251,36889.0
+2,Lazer,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//viomi/v3-vacuum-cleaner-lazer-sensor-robot-supurge-xiaomi-turkiye-resmi-distributor-garantili-p-87320132?boutiqueId=61&merchantId=455417,122041.0
+2 ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/mi-robot-vacuum-mop-2-ultra-cop-bosaltma-istasyonu-p-253685799?boutiqueId=61&merchantId=639098,4679.0
+2,Lazer,250-500,Var,Var,3,Toz Torbalı,120,https://www.trendyol.com//hoover/robocom-rbc050-1-011-robot-supurge-p-2216271?boutiqueId=61&merchantId=593943,6259.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//viomi/robot-vacuum-s9-p-80152291?boutiqueId=61&merchantId=127968,11695.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//teknoexpress/cam-pencere-temizlik-robotu-elektrikli-pencere-temizleyici-anti-dusen-uzaktan-kumandali-supurge-p-90113017?boutiqueId=61&merchantId=678867,5952.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//xiaomi/robot-vacuum-robot-supurge-mop-1-yil-ek-garanti-hediye-p-759105033?boutiqueId=61&merchantId=197550,18599.0
+4+ ,Lazer ,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//fakir/robert-rs-770-akilli-robot-supurge-n8werk-airfryer-5-5-lt-yagsiz-fritoz-p-782011573?boutiqueId=61&merchantId=112264,19999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/sonik-titresimle-olaganustu-temizlik-yeni-nesil-lds-lazer-navigasyon-sistem-mi-temizlik-robotu-2-pro-p-785474239?boutiqueId=61&merchantId=881452,16699.0
+2 ,Kamera ,500-1000,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//xiaomi/mijia-2c-2in1-vacuum-mop-robot-supurge-p-277892633?boutiqueId=61&merchantId=449692,9888.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//beko/robo-x-rs-2121-robot-supurge-p-167395048?boutiqueId=61&merchantId=869282,8999.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//rowenta/x-plorer-serisi-20-rr8275wh-2-si-1-arada-kuru-ve-islak-temizleme-wi-fi-kontrolu-p-687875469?boutiqueId=61&merchantId=789051,10400.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/8000pa-yuksek-guc-wi-fi-akilli-kontrol-mi-robot-s10t-robot-supurge-ve-paspas-lidar-tarama-p-779517894?boutiqueId=61&merchantId=881452,19879.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//grundig/moplu-haritalamali-akilli-robot-supurge-vcr-9031-p-122022360?boutiqueId=61&merchantId=831672,9595.0
+4 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//trident/t22s-pro-cop-kovali-robot-supurge-siyah-2-1-3-yil-uretici-garantili-p-711590355?boutiqueId=61&merchantId=115591,10999.0
+2 ,Jiroskop ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//irobot/roomba-combo-i8-robot-supurge-ve-paspas-p-736404463?boutiqueId=61&merchantId=222627,15499.0
+3 ,Jiroskop ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-beyaz-p-777742511?boutiqueId=61&merchantId=475260,25150.0
+2 ,Lazer ,500-1000,Var,Var,1,Robot,120,https://www.trendyol.com//arnica/sil-supur-robot-supurge-p-225928387?boutiqueId=61&merchantId=428844,21999.0
+4+ ,Kamera ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//ecovacs/deebot-slim2-robot-supurge-p-762941450?boutiqueId=61&merchantId=107439,5709.0
+4+ ,Jiroskop ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//360/botslab-c50-vacuum-mop-kumandali-akilli-robot-supurge-p-780472058?boutiqueId=61&merchantId=138468,5999.0
+2 ,Jiroskop ,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//yeedi/mop-station-akilli-mop-istasyonlu-robot-vacuum-robot-supurge-2500pa-3500-ml-0-57-l-hazne-p-666128820?boutiqueId=61&merchantId=455417,188731.0
+2 ,Lazer ,250-500,Var,Var,1,Robot,120,https://www.trendyol.com//karcher/rcv5-robot-supurge-p-675742403?boutiqueId=61&merchantId=109693,20979.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//arcelik/rs-9034-hm-robot-supurge-p-101749470?boutiqueId=61&merchantId=109527,14999.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//hobot/368-cam-temzileme-fayans-silme-robotu-cep-telefonu-uygulamasi-ve-uzaktan-kumanda-p-66425674?boutiqueId=61&merchantId=167560,109999.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//fakir/robert-rs-730-robot-supurge-p-752971163?boutiqueId=620489&merchantId=968,10176.0
+2 ,Jiroskop ,0-250,Var,Yok,3,Robot,60 - 120,https://www.trendyol.com//irobot/roomba-i5-robot-supurge-p-680433707?boutiqueId=61&merchantId=222627,12899.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//homend/alex-laser-1282h-moplu-ve-haritalamali-akilli-robot-supurge-2023-model-siyah-p-148999959?boutiqueId=61&merchantId=230835,8999.0
+3 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/homerun-7000-yeni-serisi-3-u-1-arada-islak-kuru-ve-moplu-ultra-yuksek-emis-gucu-robot-supurge-p-776683064?boutiqueId=61&merchantId=825207,44899.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//lydsto/s1-max-uv-ve-ozon-sterilizasyonlu-8000-pa-yapay-zeka-akilli-robot-supurge-p-769582222?boutiqueId=61&merchantId=217399,19999.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//sunny/hero-sn7rbt01-moplu-akilli-robot-supurge-p-203892021?boutiqueId=61&merchantId=149670,8990.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/lazer-ve-lds-lidar-tarama-cift-katmanli-kompozit-paspas-ultra-guc-mihome-uygulamasi-robot-supurge-p-784357383?boutiqueId=61&merchantId=881452,193705.0
+3 ,Yok,0-250,Var,Yok,3,Robot,120,https://www.trendyol.com//tcl/sweeva2000-robot-supurge-siyah-turkiye-garantili-p-218355746?boutiqueId=61&merchantId=277121,6199.0
+4+ ,Lazer ,0-250,Var,Yok,3,Robot,60 - 120,https://www.trendyol.com//irobot/roomba-j7-robot-supurge-p-300462533?boutiqueId=61&merchantId=230167,17799.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/wi-fi-akilli-kontrol-lidar-tarama-8000pa-yuksek-guc-mi-robot-robot-supurge-p-779517505?boutiqueId=61&merchantId=881452,21769.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//karaca/homend-alex-laser-akilli-robot-supurge-beyaz-p-161228679?boutiqueId=61&merchantId=807424,15000.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//dreame/vacuum-bot-l10-pro-robot-supurge-turkiye-garantili-p-109753248?boutiqueId=61&merchantId=540545,15999.0
+1 ,Yok,0-250,Yok,Yok,2,Şarjlı / El,30 - 60,https://www.trendyol.com//tamamelek/kumandali-ev-temizligi-robot-supurge-p-412370153?boutiqueId=61&merchantId=253966,2100.0
+2 ,Yok,250-500,Var,Var,2,Robot,120,https://www.trendyol.com//beko/rs-2221-robot-supurge-p-774753116?boutiqueId=61&merchantId=310008,8250.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//irobot/braava-jet-m6-robot-paspas-beyaz-p-256044166?boutiqueId=61&merchantId=222627,19999.0
+4+ ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//roborock/q5-pro-robot-supurge-p-784479646?boutiqueId=61&merchantId=287341,20849.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/mi-vacuum-mop-pro-robot-supurge-ve-paspas-siyah-p-176743936?boutiqueId=61&merchantId=601117,12999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/islak-ve-kuru-istasyonlu-robot-supurge-otomatik-bosaltma-istasyonlu-p-759164516?boutiqueId=61&merchantId=153143,305606.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//yui/s7-nomopzone-ozellikli-akilli-robot-vacuum-mop-supurge-siyah-yui-turkiye-garantili-p-645207128?boutiqueId=61&merchantId=836456,10699.0
+3 ,Kamera ,0-250,Var,Var,2,Robot,120,https://www.trendyol.com//xiaomi/mi-robot-vacuum-mop-2-pro-p-740046411?boutiqueId=61&merchantId=240825,11100.0
+2 ,Kamera ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//arcelik/imperium-robo-3-0-robot-supurge-premium-wi-fi-baglantisi-p-773321606?boutiqueId=61&merchantId=409995,23299.0
+2,Lazer,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//hellove/supurge-koruyucu-xiaomi-vacuum-mop-2-pro-plus-siyah-yuzey-sticker-cizilme-onleyici-etiket-maskeleyic-p-467494533?boutiqueId=61&merchantId=116512,1999.0
+2 ,Yok,250-500,Var,Var,1,Robot,30 - 60,https://www.trendyol.com//yeedi/vac-max-beyaz-renk-akilli-robot-supurge-ve-paspas-resmi-distributor-garantili-p-283933787?boutiqueId=61&merchantId=825144,6299.0
+2 ,Lazer ,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//dreame/d10s-plus-akilli-robot-supurge-p-744057809?boutiqueId=61&merchantId=108796,17499.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/homerun-7000-serisi-3-u-1-arada-5000pa-ultra-yuksek-emis-gucu-robot-supurge-mop-p-778531881?boutiqueId=61&merchantId=530549,33023.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//omix/omix-mixbot-plus-robot-supurge-siyah-p-299670514?boutiqueId=61&merchantId=205669,5484.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//xiaomi/mi-robot-vacuum-8000pa-akilli-robot-supurge-dunyanin-en-guclu-robot-supurgesi-p-691076663?boutiqueId=61&merchantId=566427,14899.0
+2 ,Kamera ,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/mi-robot-ultra-akilli-robot-supurge-ve-paspas-siyah-2022-model-p-273967496?boutiqueId=61&merchantId=601117,11149.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//karaca/vantuz-off-road-rs007-2in1-vacumm-and-mop-p-782881732?boutiqueId=61&merchantId=900265,14000.0
+1 ,Lazer ,500-1000,Var,Yok,3,Robot,60 - 120,https://www.trendyol.com//eufy/anker-eufy-robovac-15c-akilli-robot-supurge-coklu-temizleme-modu-0-6l-hazne-100dk-sure-p-753326665?boutiqueId=61&merchantId=262598,9987.0
+2 ,Lazer ,250-500,Var,Yok,3,Robot,120,https://www.trendyol.com//trident/t22s-pro-cop-kovali-robot-supurge-beyaz-2-1-3-yil-uretici-garantili-p-743393604?boutiqueId=61&merchantId=376856,10999.0
+1 ,Lazer ,0-250,Yok,Var,3,Robot,30 - 60,https://www.trendyol.com//karaca/vantuz-off-road-premium-3in1-otomatik-toz-hazneli-konusan-robot-supurge-p-770136264?boutiqueId=61&merchantId=711227,19799.0
+2 ,Lazer ,1500+,Var,Var,3,Robot,120,https://www.trendyol.com//beko/robot-supurge-p-729666611?boutiqueId=61&merchantId=873627,17499.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//hoover/h-go-300-hydro-2si-1-arada-akilli-robot-supurge-ve-paspas-siyah-p-137557820?boutiqueId=61&merchantId=455417,115441.0
+2 ,Jiroskop ,250-500,Var,Var,2,Robot,120,https://www.trendyol.com//yeedi/mop-station-beyaz-renk-akilli-robot-supurge-ve-paspas-resmi-distributor-garantili-p-356501270?boutiqueId=61&merchantId=866034,14449.0
+2 ,Yok,500-1000,Var,Yok,1,Robot,60 - 120,https://www.trendyol.com//irobot/roomba-693-akilli-robot-supurge-p-153791356?boutiqueId=61&merchantId=337950,11999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//lydsto/r1-pro-cop-istasyonlu-akilli-robot-supurge-beyaz-turkiye-garantili-p-303038347?boutiqueId=61&merchantId=217399,12999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/3000-serisi-islak-kuru-moplu-siyah-robot-supurge-4000-pa-sert-zemin-ve-haliya-uygun-p-759353274?boutiqueId=61&merchantId=614180,188889.0
+2 ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/mi-robot-vacuum-mop-2-pro-akilli-robot-supurge-beyaz-1-yil-ek-garanti-hediye-p-639952912?boutiqueId=61&merchantId=197550,13599.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//lenovo/robot-vacuum-cleaner-e1-p-62555785?boutiqueId=61&merchantId=269948,6999.0
+2 ,Jiroskop ,250-500,Var,Yok,3,Robot,120,https://www.trendyol.com//tp-link/tapo-rv30-lidar-navigasyonlu-robot-supurge-ve-paspas-p-752608468?boutiqueId=61&merchantId=106934,9599.0
+1 ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//soultech/robot-vacuum-mop-siyah-akilli-robot-supurge-p-78211237?boutiqueId=61&merchantId=594255,5964.0
+4+ ,Yok,0-250,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//karcher/rcv3eu-robot-supurge-p-670886420?boutiqueId=61&merchantId=109693,13979.0
+2 ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//electrolux/er61uw1dg-akilli-robot-supurge-p-754828197?boutiqueId=61&merchantId=129199,12950.0
+1 ,Lazer ,0-250,Var,Yok,3,Robot,60 - 120,https://www.trendyol.com//karcher/karcher-rcv-3-robot-supurge-p-746761628?boutiqueId=61&merchantId=109514,19000.0
+2 ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//eufy/anker-robovac-lr30-hybrid-supurge-t2181-p-699219397?boutiqueId=61&merchantId=143549,13799.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//beko/rs-2221-robot-supurge-p-764729226?boutiqueId=61&merchantId=310008,8250.0
+2,Lazer,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//hellove/supurge-koruyucu-xiaomi-vacuum-mop-2c-beyaz-yuzey-sticker-cizilme-onleyici-etiket-maskeleyici-p-401941059?boutiqueId=61&merchantId=116512,1999.0
+3 ,Yok,0-250,Yok,Yok,3,Robot,120,https://www.trendyol.com//cambot/win3030-otomatik-cam-silme-robotu-p-52403536?boutiqueId=61&merchantId=106230,7890.0
+4+ ,Jiroskop ,500-1000,Var,Var,2,Robot,60 - 120,https://www.trendyol.com//karcher/rcv-3-robot-supurge-p-743399811?boutiqueId=61&merchantId=693141,14799.0
+1 ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//yeedi/istasyonlu-robot-vacuum-mop-supurge-2500pa-emis-3500-ml-su-ve-atik-deposu-p-753328442?boutiqueId=61&merchantId=262598,18999.0
+2 ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//philips/evrekala-shop-robot-supurge-philips-4000-pa-ekstra-guclu-yetkili-satici-evrekala-p-763417985?boutiqueId=61&merchantId=409995,15999.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//arzum/ar4304-robotek-x4-lds-akilli-robot-supurge-siyah-p-286478499?boutiqueId=61&merchantId=765943,10599.0
+2 ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//beko/hm-robot-supurge-rs-8034-p-84589785?boutiqueId=61&merchantId=754840,14799.0
+2 ,Lazer ,250-500,Var,Var,2,Robot,120,https://www.trendyol.com//viomi/s9-robot-vacuum-cleaner-akilli-robot-supurge-siyah-p-119055950?boutiqueId=61&merchantId=480591,12750.0
+3 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/homerun-7000-serisi-islak-kuru-mop-ozelligi-ultra-yuksek-emis-gucu-aqua-istasyonlu-robot-supurge-p-773475549?boutiqueId=61&merchantId=153143,345489.0
+2 ,Lazer ,500-1000,Var,Yok,3,Robot,120,https://www.trendyol.com//ttec/robi-pro-laseriq-teknolojili-japon-fircasiz-motorlu-akilli-robot-supurge-ve-paspas-p-339349440?boutiqueId=61&merchantId=642804,7800.0
+2 ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//philips/vp-3000-serisi-islak-kuru-moplu-beyaz-robot-supurge-4000-pa-0-35-litre-14-76-v-beyaz-p-758379810?boutiqueId=61&merchantId=455417,151441.0
+2 ,Lazer ,1500+,Var,Var,3,Robot,120,https://www.trendyol.com//philips/islak-ve-kuru-temizlik-robotu-4000-pa-sert-zemin-ve-haliya-uygunxu3110-02-homerun-3000-serisi-aqua-p-759353146?boutiqueId=61&merchantId=531586,20000.0
+2 ,Kamera ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//arcelik/imperium-robo-3-0-robot-supurge-premium-wi-fi-baglantisi-p-773319384?boutiqueId=61&merchantId=409995,23299.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//midea/m7-vacuum-and-mop-akilli-robot-supurge-p-55252944?boutiqueId=61&merchantId=885333,16998.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//electrolux/pure-i9-2-pi92-6dgm-57-v-li-ion-100dk-sarjli-robot-supurge-p-39576282?boutiqueId=61&merchantId=246502,8490.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//beko/rs-2221-robot-supurge-p-770230202?boutiqueId=61&merchantId=310008,8250.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//icotech/f10-max-plus-uyumlu-robot-supurge-yedek-parca-seti-p-777665323?boutiqueId=61&merchantId=851340,999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//beko/robo-x-2-0-rs-8121-robot-supurge-p-669792295?boutiqueId=61&merchantId=791389,13299.0
+2 ,Jiroskop ,500-1000,Var,Yok,3,Robot,120,https://www.trendyol.com//redline/robored-g1-robot-supurge-p-119106904?boutiqueId=61&merchantId=460760,4359.0
+3 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/islak-kuru-ve-mop-ozellikli-premium-robot-supurge-ultra-emis-gucu-lazer-navigasyon-180-dk-sure-p-778721945?boutiqueId=61&merchantId=825207,47589.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//lydsto/r1-d-akilli-robot-supurge-ve-paspas-beyaz-turkiye-garantili-p-279813216?boutiqueId=61&merchantId=217399,9499.0
+2 ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//beko/robo-x-2-0-rs-8121-robot-supurge-p-647704073?boutiqueId=61&merchantId=593928,11399.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//ilife/v5s-pro-akilli-robot-supurge-kuru-ve-islak-temizleme-modu-p-32776887?boutiqueId=61&merchantId=190712,5499.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/islak-kuru-moplu-beyaz-robot-supurge-sert-zemin-ve-haliya-uygun-1-yil-ek-garantili-p-759143150?boutiqueId=61&merchantId=455417,156241.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/sonik-titresimle-olaganustu-temizlik-yeni-nesil-lds-lazer-navigasyon-sistem-mi-temizlik-robotu-2-pro-p-785469702?boutiqueId=61&merchantId=881452,16799.0
+2 ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//roborock/vacuum-cleanner-q8-max-plus-robot-supurge-siyah-p-778057992?boutiqueId=61&merchantId=149251,28919.0
+3 ,Jiroskop ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-beyaz-5000-watt-p-777742770?boutiqueId=61&merchantId=409995,34999.0
+1 ,Yok,0-250,Yok,Yok,3,Robot,60 - 120,https://www.trendyol.com//ximeijie/kumandali-ev-temizligi-robot-supurge-p-779998585?boutiqueId=61&merchantId=755844,1955.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/homerun7100-serisi-islak-kuru-moplu-toz-toplama-istasyonlu-kendini-temizleyen-robot-supurge-5000-pa-p-766067636?boutiqueId=61&merchantId=455417,445441.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//bilicra/moby-akilli-robot-supurge-p-87300272?boutiqueId=61&merchantId=250852,6774.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/homerun-ultra-yuksek-emis-gucu-3100-serisi-otomatik-bosaltma-sistemi-islak-kuru-robot-supurge-beyaz-p-785310678?boutiqueId=61&merchantId=881452,29899.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//philips/homerun-sezgisel-kullanim-ultra-yuksek-emis-gucu-3000-serisi-yeni-aqua-akilli-robot-supurge-p-785308307?boutiqueId=61&merchantId=881452,21799.0
+2 ,Jiroskop ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//grundig/yeni-seri-0-4-litre-vcr4230-robot-supurge-beyaz-300-ml-su-hepa-filtre-p-765380821?boutiqueId=61&merchantId=455417,83441.0
+2 ,Kamera ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//xiaomi/mi-robot-vacuum-mop-2-pro-p-129684660?boutiqueId=61&merchantId=601117,10999.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//tcl/sweeva2000-robot-supurge-beyaz-turkiye-garantili-p-218336602?boutiqueId=61&merchantId=718143,7899.0
+1 ,Yok,0-250,Yok,Yok,3,Robot,120,https://www.trendyol.com//hellove/supurge-koruyucu-xiaomi-vacuum-mop-pro-beyaz-yuzey-sticker-cizilme-onleyici-etiket-maskeleyici-p-467761346?boutiqueId=61&merchantId=116512,1999.0
+4 ,Jiroskop ,250-500,Var,Yok,3,Robot,120,https://www.trendyol.com//tp-link/tapo-rv30-plus-lidar-navigasyonlu-robot-supurge-ve-paspas-akilli-otomatik-bosaltma-unitesi-p-752608466?boutiqueId=61&merchantId=118442,12699.0
+2 ,Yok,0-250,Yok,Yok,3,Robot,0 - 30,https://www.trendyol.com//teknoexpress/dusme-onleyici-cam-silme-robotu-dusakabin-ayna-cam-fayans-uzaktan-kumandali-temizleyici-p-299523963?boutiqueId=61&merchantId=678867,5953.0
+3 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/homerun-7000-serisi-islak-kuru-mop-ozelligi-ultra-yuksek-emis-gucu-premium-robot-supurge-p-777110212?boutiqueId=61&merchantId=825207,44899.0
+1 ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//yeedi/vac-hybrid-beyaz-renk-akilli-robot-supurge-ve-paspas-p-753332474?boutiqueId=61&merchantId=455417,84676.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//lydsto/r1-cop-istasyonlu-akilli-robot-supurge-ve-paspas-siyah-turkiye-garantili-p-90158701?boutiqueId=61&merchantId=217399,12499.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-beyaz-p-778030628?boutiqueId=61&merchantId=409995,21999.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//mijia/cam-temizleme-robotu-cam-temizleme-robotu-cam-temizleme-aleti-hutt-ddc55-p-44177074?boutiqueId=61&merchantId=837989,9999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/3000-serisi-islak-kuru-moplu-robot-supurge-4000-pa-ultra-emis-gucu-premium-200dk-pil-suresi-p-772533269?boutiqueId=61&merchantId=270030,20899.0
+4 ,Yok,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//karcher/rcv5eu-robot-supurge-p-670253650?boutiqueId=61&merchantId=109693,21999.0
+1 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/3000-serisi-islak-kuru-moplu-siyah-robot-supurge-4000-pa-sert-zemin-ve-haliya-uygun-siyah-p-754200925?boutiqueId=61&merchantId=455417,156813.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//omix/omix-mixbot-pro-robot-supurge-siyah-p-300818955?boutiqueId=61&merchantId=266606,6600.0
+2 ,Kamera ,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/mi-robot-vacuum-mop-2-pro-p-716500752?boutiqueId=61&merchantId=566427,15999.0
+2 ,Kamera ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//arcelik/imperium-robo-3-0-robot-supurge-premium-wi-fi-baglantisi-p-773321027?boutiqueId=61&merchantId=409995,351999.0
+3 ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//philips/evrekala-shop-islak-kuru-robot-supurge-philips-lazer-teknolojisi-230-dk-yetkili-satici-evrekala-new-p-771231586?boutiqueId=61&merchantId=197550,16999.0
+2,Lazer,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//ssmobil/ezere-otomatik-pencere-elektrikli-robot-temizleyici-cam-temizleme-akilli-kontrol-kumandali-silme-p-706626942?boutiqueId=61&merchantId=436830,49990.0
+3 ,Kamera ,500-1000,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//xiaomi/mi-robot-vacuum-mop-2c-robot-supurge-yeni-versiyon-p-646736921?boutiqueId=61&merchantId=449692,9888.0
+1 ,Lazer ,1500+,Var,Yok,3,Dikey,120,https://www.trendyol.com//neutron/neutrobot-ketty-akilli-otonom-servis-robotu-p-684268209?boutiqueId=61&merchantId=107514,219000.0
+2 ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/mi-robot-vacuum-mop-2-pro-akilli-robot-supurge-beyaz-1-yil-ek-garanti-hediye-p-639953816?boutiqueId=61&merchantId=197550,12999.0
+1 ,Yok,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//hoover/h-go-300-hydro-2si1-arada-akilli-robot-supurge-supurme-ve-paspaslama-350-ml-hazne-120-dk-p-652187669?boutiqueId=61&merchantId=455417,115441.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//viomi/v3-vacuum-cleaner-lazer-sensor-robot-supurge-ve-paspas-p-255915766?boutiqueId=61&merchantId=841861,9499.0
+2 ,Kamera ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//arcelik/imperium-robo-3-0-robot-supurge-premium-wi-fi-baglantisi-p-773313603?boutiqueId=61&merchantId=409995,334999.0
+2 ,Yok,250-500,Var,Var,1,Robot,120,https://www.trendyol.com//trident/tpl24-robot-siyah-p-729711861?boutiqueId=61&merchantId=115591,6999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-beyaz-p-778025075?boutiqueId=61&merchantId=409995,215999.0
+2 ,Lazer ,250-500,Var,Var,3,Sulu,120,https://www.trendyol.com//philips/lidar-tarama-istasyonlu-islak-kuru-temizlik-premium-homerun-otomatik-bosaltma-robot-supurge-p-779069168?boutiqueId=61&merchantId=881452,39899.0
+3 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/robot-supurge-philips-islak-kuru-tum-zeminleri-silme-supurme-p-771593412?boutiqueId=61&merchantId=495689,242990.0
+2 ,Lazer ,500-1000,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//xiaomi/mi-robot-supurge-mop-2-pro-siyah-p-410717615?boutiqueId=61&merchantId=449692,9999.0
+2 ,Lazer ,250-500,Var,Var,3,Sulu,120,https://www.trendyol.com//philips/islak-kuru-premium-homerun-7000-otomatik-bosaltma-anti-alerjik-robot-supurge-p-779416221?boutiqueId=61&merchantId=881452,39899.0
+1 ,Lazer ,0-250,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//hoover/hg530h-011-hg5-2si-1-arada-akilli-robot-supurge-ve-paspas-p-758750280?boutiqueId=61&merchantId=178143,11799.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/3000pa-emis-olaganustu-temizlik-icin-hizli-paspaslama-mi-temizlik-robotu-2-pro-p-785474158?boutiqueId=61&merchantId=881452,16799.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//xiaomi/mi-robot-mop-2-pro-akilli-robot-supurge-beyaz-2022-yeni-model-mop-pro-2-beyaz-p-300139896?boutiqueId=61&merchantId=449692,10769.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//lenovo/smart-robot-vacuum-cleaner-t1-p-62555845?boutiqueId=61&merchantId=121475,10799.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//karcher/rcv-5-silme-bezi-p-744422453?boutiqueId=61&merchantId=130672,330.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/robot-vacuum-s10-akilli-robot-supurge-p-732165418?boutiqueId=61&merchantId=4666,12399.0
+2 ,Lazer ,0-250,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//xiaomi/mi-robot-vacuum-mop-2-pro-akilli-robot-supurge-siyah-mi-band-6-akilli-saat-p-641304359?boutiqueId=61&merchantId=566427,14299.0
+2 ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//philips/robot-supurge-philips-ekstra-guclu-otomatik-siler-ve-supurur-p-767146270?boutiqueId=61&merchantId=409995,17499.0
+3 ,Lazer ,1000-1500,Var,Var,3,Robot,120,https://www.trendyol.com//sahin/elk-dreame-xiaomi-vacuum-mop-d9-robot-supurge-d9-p-742617731?boutiqueId=61&merchantId=803479,10999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/mi-robot-vacuum-mop-2-pro-siyah-p-650287516?boutiqueId=61&merchantId=564671,12999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-beyaz-p-778031482?boutiqueId=61&merchantId=409995,21999.0
+1 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//eufy/anker-eufy-robovac-x8-hybrid-akilli-robot-supurge-cift-turbin-ile-2x-2000pa-cekim-gucu-p-753326869?boutiqueId=61&merchantId=262598,23000.0
+2 ,Kamera ,250-500,Var,Var,2,Robot,120,https://www.trendyol.com//ecovacs/deebot-x1-omni-siyah-renk-akilli-robot-supurge-ve-paspas-resmi-distributor-garantili-p-356510619?boutiqueId=61&merchantId=472332,38043.0
+1 ,Yok,0-250,Yok,Yok,3,Robot,120,https://www.trendyol.com//hellove/supurge-koruyucu-xiaomi-vacuum-mop-2-lite-siyah-yuzey-sticker-cizilme-onleyici-etiket-maskeleyici-p-641727518?boutiqueId=61&merchantId=116512,1999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//xiaomi/mi-robot-vacuum-8000pa-akilli-robot-supurge-dunyanin-en-guclu-robot-supurgesi-p-691076493?boutiqueId=61&merchantId=566427,17399.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/istasyonlu-otomatik-bosaltma-sistemi-homerun-ultra-yuksek-emis-gucu-3100-seri-kablosuz-robot-supurge-p-785311077?boutiqueId=61&merchantId=881452,29899.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/mi-mop-2-pro-beyaz-p-659753463?boutiqueId=61&merchantId=449692,10299.0
+2 ,Lazer ,0-250,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//xiaomi/mi-robot-vacuum-mop-2-pro-akilli-robot-supurge-beyaz-1-yil-ek-garanti-hediye-p-639953801?boutiqueId=61&merchantId=197550,12999.0
+2 ,Lazer ,250-500,Var,Var,3,Sulu,120,https://www.trendyol.com//philips/aqua-istasyonlu-anti-alerjik-islak-kuru-temizlik-homerun-otomatik-bosaltma-robot-supurge-p-779068851?boutiqueId=61&merchantId=732994,40000.0
+2 ,Lazer ,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//philips/vp-yeni-seri-0-3-lt-7000-serisi-beyaz-islak-kuru-robot-supurge-5000-pa-titresimli-mop-2-paspas-p-772207511?boutiqueId=61&merchantId=614180,269999.0
+2 ,Lazer ,0-250,Var,Var,2,Robot,120,https://www.trendyol.com//viomi/viomi-v5-p-744793929?boutiqueId=61&merchantId=431905,6650.0
+2 ,Lazer ,0-250,Var,Yok,3,Robot,120,https://www.trendyol.com//hoover/38383006-hg550dp011-robot-supurge-p-754552192?boutiqueId=61&merchantId=867384,14169.0
+2 ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//beko/robot-supurge-p-297002721?boutiqueId=61&merchantId=197550,18599.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//farg/myrob-epa-1209-mop-ozellikli-ve-kumandali-akilli-robot-supurge-p-356925070?boutiqueId=61&merchantId=419199,7550.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//viomi/se-vacuum-cleaner-lazer-sensor-2in1-robot-supurge-ve-paspas-p-57662118?boutiqueId=61&merchantId=107277,8999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/mi-mop-2-pro-siyah-p-659754146?boutiqueId=61&merchantId=198075,9725.0
+4+ ,Lazer ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//karcher/rcv-3-icin-aksesuar-seti-p-765320129?boutiqueId=61&merchantId=138689,508.0
+1 ,Yok,0-250,Yok,Yok,3,Robot,120,https://www.trendyol.com//ebrtech/profesyonel-otomatik-cam-temizleme-robotu-p-101785917?boutiqueId=61&merchantId=112396,64009.0
+1 ,Lazer ,0-250,Var,Yok,3,Robot,120,https://www.trendyol.com//ecovacs/winbot-w1-pro-pencere-temizleme-robotu-akilli-temizlik-p-767065614?boutiqueId=61&merchantId=122175,305590.0
+2 ,Kamera ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//xiaomi/mi-vacuum-robot-supurge-mop-2-p-378790064?boutiqueId=61&merchantId=601117,9799.0
+2 ,Kamera ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//arcelik/imperium-robo-3-0-robot-supurge-premium-wi-fi-baglantisi-p-773314206?boutiqueId=61&merchantId=409995,346999.0
+2 ,Jiroskop ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//xiamen/xiaomi-mi-robot-vacuum-mop-kablosuz-akilli-supurge-p-101187673?boutiqueId=61&merchantId=455417,119840.0
+2 ,Lazer ,500-1000,Var,Yok,3,Robot,60 - 120,https://www.trendyol.com//electrolux/vp-pure-i92-pi92-6dgm-ucgen-tasarimli-robot-supurge-3d-goruslu-120-dk-calisma-super-hizli-sarj-p-770432765?boutiqueId=61&merchantId=455417,115521.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/mi-robot-supurge-mop-2-pro-beyaz-p-345009770?boutiqueId=61&merchantId=514600,10299.0
+2 ,Lazer ,250-500,Yok,Var,3,Robot,60 - 120,https://www.trendyol.com//viomi/alpha-3-vacuum-cleaner-beyaz-resmi-distributor-garantili-p-722981639?boutiqueId=61&merchantId=497123,19499.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/homerun-3000-serisi-islak-kuru-mop-ozelligi-ultra-yuksek-emis-gucu-premium-robot-supurge-p-786194533?boutiqueId=61&merchantId=825207,36999.0
+2 ,Lazer ,0-250,Var,Var,3,Toz Torbalı,120,https://www.trendyol.com//wero/m8-max-robot-supurge-akilli-toz-toplama-istasyonu-paspaslama-p-194939350?boutiqueId=61&merchantId=473924,11490.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//viomi/v5-robot-supurge-1-yil-garanti-hediye-p-650130757?boutiqueId=61&merchantId=197550,12899.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/yeni-nesil-lds-lazer-navigasyon-sonik-titresimle-olaganustu-temizlik-mi-temizlik-robotu-2-pro-p-785469596?boutiqueId=61&merchantId=881452,16799.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//xiaomi/mi-robot-vacuum-mop-2-pro-akilli-robot-supurge-beyaz-mi-band-6-akilli-bileklik-p-640256382?boutiqueId=61&merchantId=197550,17599.0
+2 ,Lazer ,0-250,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//xiaomi/mi-robot-vacuum-mop-2-pro-akilli-robot-supurge-beyaz-mi-band-6-akilli-bileklik-p-640255361?boutiqueId=61&merchantId=197550,17599.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//xiaomi/mi-robot-vacuum-mop-2-pro-akilli-robot-supurge-beyaz-mi-band-6-akilli-bileklik-p-640254281?boutiqueId=61&merchantId=197550,17899.0
+1 ,Jiroskop ,0-250,Var,Yok,3,Robot,120,https://www.trendyol.com//mijia/hutt-w66-cam-temizleme-robotu-su-hazneli-p-81286206?boutiqueId=61&merchantId=231861,24995.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//lydsto/g1-akilli-robot-supurge-ve-paspas-siyah-turkiye-garantili-p-270894578?boutiqueId=61&merchantId=217399,5899.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//lydsto/r1-pro-cop-istasyonlu-akilli-robot-supurge-siyah-turkiye-garantili-p-303043365?boutiqueId=61&merchantId=217399,12999.0
+2 ,Lazer ,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//soultech/rb002-akilli-temizleme-robotu-vacuum-mop-p-647362556?boutiqueId=61&merchantId=459558,7500.0
+2 ,Lazer ,250-500,Var,Var,3,Sulu,120,https://www.trendyol.com//philips/aqua-anti-alerji-islak-kuru-temizlik-homerun-7000-otomatik-bosaltma-premium-robot-supurge-p-779409796?boutiqueId=61&merchantId=732994,35000.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/wi-fi-android-apple-uyumlu-otomatik-homerun-ultra-yuksek-emis-gucu-3100-seri-kablosuz-robot-supurge-p-785310880?boutiqueId=61&merchantId=881452,29899.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/homerun-ultra-yuksek-emis-gucu-3100-serisi-otomatik-bosaltma-sistemi-istasyonlu-robot-supurge-beyaz-p-785310597?boutiqueId=61&merchantId=881452,29899.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//philips/homerun-ultra-yuksek-emis-gucu-3000-serisi-yeni-aqua-wi-fi-akilli-kontrol-robot-supurge-p-785308120?boutiqueId=61&merchantId=881452,21799.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//mamibot/exvac900s-yuksek-performansli-haritalamali-siyah-akilli-robot-supurge-ve-bosaltma-unitesi-p-777731517?boutiqueId=61&merchantId=886789,26999.0
+1 ,Yok,0-250,Yok,Yok,1,Robot,120,https://www.trendyol.com//ttec/plus-2rc01-robi-promaster-otomatik-toz-bosaltma-sistemli-akilli-robot-supurge-ve-paspas-p-777652224?boutiqueId=61&merchantId=201140,121670.0
+2 ,Lazer ,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//ttec/navi-laseriq-teknolojili-ve-japon-fircasiz-motorlu-akilli-robot-supurge-ve-paspas-p-366698545?boutiqueId=61&merchantId=107419,204990.0
+2 ,Lazer ,500-1000,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//smartmi/vortexwave-robot-supurge-genpa-teknik-servis-garantili-p-366711154?boutiqueId=61&merchantId=877454,10500.0
+1 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//xiaomi/mi-robot-vacuum-mop-2-pro-akilli-siyah-robot-supurge-p-260740177?boutiqueId=61&merchantId=564671,12999.0
+3 ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//philips/evrekala-shop-robot-supurge-philips-ekstra-guclu-otomatik-siler-ve-supurur-yetkili-satici-evrekala-p-772231224?boutiqueId=61&merchantId=495689,246290.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//lydsto/r1-d-akilli-robot-supurge-ve-paspas-siyah-turkiye-garantili-p-269328097?boutiqueId=61&merchantId=217399,9499.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//xiaomi/mi-robot-vacuum-mop-2-pro-p-300123473?boutiqueId=61&merchantId=564671,12999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//xiaomi/mop-pro-siyah-akilli-robot-supurge-mi-band-6-akilli-bileklik-adim-sayar-p-136664885?boutiqueId=61&merchantId=197550,20599.0
+1 ,Yok,0-250,Yok,Yok,3,Şarjlı / El,60 - 120,https://www.trendyol.com//ximeijie/kumandali-robot-supurge-p-756040183?boutiqueId=61&merchantId=728400,2379.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//hf520/uv-isinli-dezenfekte-robotu-p-67158809?boutiqueId=61&merchantId=269605,1399.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//shark-online/rv2310ae-matrix-kendiliginden-bosalan-torbasiz-robot-supurge-p-782506545?boutiqueId=61&merchantId=896607,19418.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//ttech/ttec-2rs01-robi-promaster-akilli-robot-supurge-p-235651676?boutiqueId=61&merchantId=224449,11899.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//philips/homerun-halilari-algilar-ultra-yuksek-emis-gucu-3000-serisi-yeni-aqua-akilli-robot-supurge-p-785310300?boutiqueId=61&merchantId=881452,21799.0
+1 ,Kamera ,0-250,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//xiamen/xiaomi-mi-robot-vacuum-mop-robot-supurge-p-754690662?boutiqueId=61&merchantId=409995,12499.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/premium-7000-seris-islak-ve-kuru-robot-supurge-p-762674553?boutiqueId=61&merchantId=409995,26599.0
+3 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/3000-serisi-islak-kuru-moplu-siyah-robot-supurge-4000-pa-sert-zemin-ve-haliya-uygun-p-754203856?boutiqueId=61&merchantId=409995,17299.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//umie/umie-ls5-vakumlu-2200pa-6400mah-yuksek-emisli-akilli-robot-supurge-paspas-p-105499989?boutiqueId=61&merchantId=825144,9999.0
+2 ,Jiroskop ,1000-1500,Var,Var,3,Robot,120,https://www.trendyol.com//cecotec/robot-elektrikli-supurge-conga-999-p-767152848?boutiqueId=61&merchantId=262598,11349.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/7000-serisi-islak-ve-kuru-istasyonlu-robot-supurge-otomatik-bosaltma-istasyonlu-5000-pa-wifili-p-765353543?boutiqueId=61&merchantId=109514,381189.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/islak-kuru-ve-moplu-5000pa-emis-gucu-ultra-sensor-donanimli-180dk-calisma-sureli-robot-supurge-p-785233321?boutiqueId=61&merchantId=825207,34999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/aqua-islak-kuru-ve-mop-ozellikli-ultra-emis-gucu-epa11-filtre-180dk-calisma-sureli-robot-supurge-p-785233250?boutiqueId=61&merchantId=825207,34999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/aqua-islak-kuru-ve-mop-ozellikli-5000-pa-ultra-emis-gucu-180dk-calisma-sureli-robot-supurge-p-785232434?boutiqueId=61&merchantId=825207,34999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-beyaz-p-778024697?boutiqueId=61&merchantId=409995,219999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-beyaz-p-778024686?boutiqueId=61&merchantId=409995,217999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-siyah-p-778023021?boutiqueId=61&merchantId=409995,204999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-siyah-p-777945400?boutiqueId=61&merchantId=409995,209999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-siyah-p-777945289?boutiqueId=61&merchantId=409995,211999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-siyah-p-777944612?boutiqueId=61&merchantId=409995,215999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-siyah-4000-watt-p-777944585?boutiqueId=61&merchantId=409995,213999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-siyah-4000-watt-p-777944409?boutiqueId=61&merchantId=409995,217999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-siyah-65-db-p-777747388?boutiqueId=61&merchantId=409995,323999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-siyah-p-777746941?boutiqueId=61&merchantId=409995,337999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-siyah-p-777746904?boutiqueId=61&merchantId=409995,339999.0
+3 ,Jiroskop ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-beyaz-p-777742400?boutiqueId=61&merchantId=409995,331999.0
+3 ,Jiroskop ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-beyaz-p-777742384?boutiqueId=61&merchantId=409995,335999.0
+3 ,Jiroskop ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-beyaz-p-777742145?boutiqueId=61&merchantId=409995,339999.0
+3 ,Jiroskop ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-beyaz-p-777742067?boutiqueId=61&merchantId=409995,337999.0
+1 ,Lazer ,1500+,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//philips/3000-robot-supurgeislak-kuru-moplu-istasyonlu-4000-pa-sert-zemin-ve-haliya-uygun-beyaz-p-773645327?boutiqueId=61&merchantId=409995,27499.0
+1 ,Lazer ,1500+,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//philips/3000-islak-kuru-moplu-istasyonlu-robot-supurge-4000-pa-sert-zemin-ve-haliya-uygun-beyaz-p-773621686?boutiqueId=61&merchantId=409995,24522.0
+3 ,Lazer ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//grundig/robot-supurge-beyaz-li-on-p-772858770?boutiqueId=61&merchantId=409995,92999.0
+3 ,Lazer ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//grundig/robot-supurge-beyaz-p-772858723?boutiqueId=61&merchantId=409995,99999.0
+4+ ,Lazer ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//karcher/rcv-3-icin-silme-bezi-p-765321808?boutiqueId=61&merchantId=130672,389.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/premium-7000-seris-islak-ve-kuru-robot-supurge-p-762679146?boutiqueId=61&merchantId=409995,27650.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/avantajli-7000-seris-islak-ve-kuru-robot-supurge-p-762676477?boutiqueId=61&merchantId=409995,28650.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/7000-seris-islak-ve-kuru-robot-supurge-p-762673738?boutiqueId=61&merchantId=409995,26999.0
+4+ ,Lazer ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/ozel-seri-3000-serisi-aqua-robot-supurge-beyaz-p-762670716?boutiqueId=61&merchantId=409995,22299.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//philips/siyah-islak-kuru-ozellikli-ozel-seri-robot-supurge-p-762372657?boutiqueId=61&merchantId=409995,22999.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//philips/islak-kuru-ozellikli-robot-supurge-p-762372339?boutiqueId=61&merchantId=409995,23499.0
+3 ,Yok,0-250,Yok,Var,1,Sulu,120,https://www.trendyol.com//karcher/nt-70-2-me-classic-islak-kuru-elektrikli-supurge-2300w-p-741587951?boutiqueId=61&merchantId=223051,14950.0
+2 ,Jiroskop ,250-500,Var,Var,2,Robot,120,https://www.trendyol.com//viomi/v5-akilli-robot-supurge-p-748667477?boutiqueId=61&merchantId=845017,7499.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/islak-ve-kuru-temizlik-robotu-5200-mah-li-ion-pil-5000-pa-emis-gucu-homerun-7000-xu7000-01-p-753326507?boutiqueId=61&merchantId=530549,23529.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//grundig/toz-bosaltma-sistemli-robot-supurge-airfryer-az-yagli-pisirici-p-650593851?boutiqueId=61&merchantId=197550,28599.0
+2 ,Yok,250-500,Var,Yok,2,Robot,60 - 120,https://www.trendyol.com//go-aksesuar/fakir-robert-ii-rs-710-robot-supurge-p-181294225?boutiqueId=61&merchantId=380704,8250.0
+1 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//viomi/vacuum-cleaner-lazer-sensor-robot-supurge-ve-paspas-p-754770500?boutiqueId=61&merchantId=409995,12499.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//viomi/pro-robot-supurge-beyaz-1-yil-ek-garanti-hediye-p-650123423?boutiqueId=61&merchantId=197550,16599.0
+2,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//viomi/s9-robot-vacuum-cleaner-akilli-robot-supurge-siyah-garantili-p-105270741?boutiqueId=61&merchantId=480591,12399.0
+2,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//viomi/robot-vacuum-s9-s9-robot-vacuum-cleaner-akilli-robot-supurge-p-101765529?boutiqueId=61&merchantId=449692,12588.0
+2 ,Lazer ,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//ttec/navi-pro-otomatik-toz-bosaltma-sistemli-japon-fircasiz-motorlu-akilli-robot-supurge-ve-paspas-p-366701839?boutiqueId=61&merchantId=148775,13000.0
+1 ,Yok,0-250,Yok,Yok,3,Robot,120,https://www.trendyol.com//smartmi/cleanbot-cam-temizleme-robotu-p-411984519?boutiqueId=61&merchantId=539952,9990.0
+1 ,Yok,0-250,Var,Var,1,Robot,120,https://www.trendyol.com//moby/bilicra-akilli-robot-supurge-p-378070358?boutiqueId=61&merchantId=123425,12999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/vp-yeni-seri-3000-serisi-islak-kuru-moplu-istasyonlu-robot-supurge-4000-pasert-zemin-ve-haliya-uygun-p-780928597?boutiqueId=61&merchantId=455417,285440.0
+1 ,Jiroskop ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//arcelik/robot-p-665201009?boutiqueId=61&merchantId=614180,257999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//beko/robot-supurge-p-729668688?boutiqueId=61&merchantId=816885,13149.0
+1 ,Jiroskop ,250-500,Yok,Yok,3,Robot,60 - 120,https://www.trendyol.com//enther/robot-elektrikli-supurge-gyro-navigasyonlu-robot-supurge-2600mah-120-dk-calisma-p-770365887?boutiqueId=61&merchantId=262598,11857.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-siyah-65-db-p-777747582?boutiqueId=61&merchantId=409995,312999.0
+3 ,Jiroskop ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-beyaz-p-777742333?boutiqueId=61&merchantId=409995,333999.0
+2 ,Kamera ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//arcelik/imperium-robo-3-0-robot-supurge-premium-wi-fi-baglantisi-p-773322732?boutiqueId=61&merchantId=409995,28999.0
+1 ,Kamera ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//lefant/robot-vacuum-supurge-yeni-model-2023-p-769962357?boutiqueId=61&merchantId=610757,10000.0
+3 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//easytekno/karcher-rcv-5-robot-supurge-p-731103294?boutiqueId=61&merchantId=128165,20499.0
+2 ,Lazer ,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//tcl/sweeva-6500m-mop-rob-supurge-dustbox-0002017853001-p-771027263?boutiqueId=61&merchantId=484281,10130.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/3000-serisi-islak-kuru-moplu-robot-supurge-4000-pa-ultra-emis-gucu-premium-200dk-pil-suresi-p-766830775?boutiqueId=61&merchantId=197550,19999.0
+2 ,Jiroskop ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//tp-link/tapo-rv30-lidar-navigasyonlu-robot-supurge-p-744751901?boutiqueId=61&merchantId=118442,9199.0
+1 ,Yok,250-500,Yok,Yok,3,Robot,120,https://www.trendyol.com//charge/1x-robot-servo-25kg-rds3225-uyumlu-metal-disli-p-737173865?boutiqueId=61&merchantId=567458,10799.0
+2 ,Lazer ,250-500,Var,Yok,3,Robot,120,https://www.trendyol.com//tcl/sweeva-6000-siyah-robot-supurge-turkiye-garantili-p-462983958?boutiqueId=61&merchantId=825144,7499.0
+2 ,Jiroskop ,250-500,Var,Var,2,Robot,120,https://www.trendyol.com//arcelik/rs-9121-robot-supurge-siyah-p-761238231?boutiqueId=61&merchantId=797411,15000.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/homerun-aqua-serisi-premium-3-u-1-arada-islak-kuru-ve-moplu-ultra-yuksek-emis-gucu-robot-supurge-p-786087485?boutiqueId=61&merchantId=825207,36999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/aqua-yeni-seri-premium-3-u-1-arada-islak-kuru-ve-moplu-ultra-yuksek-emis-gucu-robot-supurge-p-786082760?boutiqueId=61&merchantId=825207,36999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/homerun-3000-serisi-3-u-1-arada-islak-kuru-ve-moplu-4000pa-ultra-yuksek-emis-gucu-robot-supurge-p-786063145?boutiqueId=61&merchantId=825207,36999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/homerun-3000-yeni-serisi-3-u-1-arada-islak-kuru-ve-moplu-ultra-yuksek-emis-gucu-robot-supurge-p-786026673?boutiqueId=61&merchantId=825207,36999.0
+2 ,Jiroskop ,0-250,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//grundig/haritalamali-mop-ozellikli-akilli-robot-supurge-2-1-yil-garanti-p-236645042?boutiqueId=61&merchantId=455417,165441.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//realme/techlife-robot-mop-vacuum-supurge-p-276027265?boutiqueId=61&merchantId=121475,11999.0
+2,Lazer,250-500,Var,Var,3,Toz Torbalı,120,https://www.trendyol.com//redline/robored-g2-akilli-robot-supurge-p-121348611?boutiqueId=61&merchantId=460760,6990.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/7000-seris-islak-ve-kuru-robot-supurge-p-762675020?boutiqueId=61&merchantId=409995,26899.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//easytekno/xiaomi-mi-robot-vacuum-s10t-8000pa-akilli-robot-supurge-p-731102720?boutiqueId=61&merchantId=757843,15750.0
+1 ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//yeedi/vac-station-akilli-cop-istasyonlu-robot-vacuum-mop-supurge-p-283379937?boutiqueId=61&merchantId=866034,17499.0
+2 ,Lazer ,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//robogil/stella-500b-yeni-nesil-robot-supurge-ve-robot-paspas-p-176278078?boutiqueId=61&merchantId=140281,9999.0
+2,Lazer,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//hobot/298-cam-temizleme-fayans-silme-robotu-ultrasonik-sprey-telefon-ve-uzaktan-kumanda-ile-kontrol-p-77353983?boutiqueId=61&merchantId=167560,179999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//philips/homerun-sezgisel-kullanim-ultra-yuksek-emis-gucu-3000-serisi-yeni-aqua-akilli-robot-supurge-p-785307376?boutiqueId=61&merchantId=881452,21799.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-siyah-65-db-p-777747421?boutiqueId=61&merchantId=409995,32999.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/3000-series-aqua-islak-ve-kuru-robot-supurge-beyaz-p-772856403?boutiqueId=61&merchantId=409995,27999.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//philips/3000-series-aqua-islak-kuru-ozellikli-ozel-seri-robot-supurge-p-762372801?boutiqueId=61&merchantId=409995,22199.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//thomas/twin-t2-aquafilter-temizlik-robotu-p-48514569?boutiqueId=61&merchantId=140111,49980.0
+1 ,Yok,500-1000,Var,Yok,3,Robot,120,https://www.trendyol.com//tcl/sweeva-2000-kit-p-381474139?boutiqueId=61&merchantId=786505,1390.0
+2,Lazer,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//hutt/w66-su-hazneli-cam-temizleme-robotu-p-309734207?boutiqueId=61&merchantId=231861,24995.0
+2,Lazer,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//viomi/s9-robot-vacuum-cleaner-akilli-robot-supurge-siyah-p-109539477?boutiqueId=61&merchantId=480591,12750.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//lura/wipe-n-clean-akilli-cop-istasyonlu-robot-supurge-p-217115584?boutiqueId=61&merchantId=528101,15750.0
+2 ,Lazer ,250-500,Var,Yok,3,Robot,120,https://www.trendyol.com//botslab/360-s10-vacuum-mop-cleaner-akilli-robot-supurge-p-713078935?boutiqueId=61&merchantId=201140,127178.0
+2 ,Yok,250-500,Yok,Yok,3,Robot,60 - 120,https://www.trendyol.com//irobat/akilli-temizlik-robotu-p-2701451?boutiqueId=61&merchantId=112997,5999.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//umie/umie-ls5-max2200-vakumlu-6400mah-yuksek-emisli-akilli-robot-supurge-p-110395788?boutiqueId=61&merchantId=825144,11500.0
+3 ,Lazer ,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//easytekno/tcl-sweeva-6500m-mop-rob-supurge-dustbox-p-731103333?boutiqueId=61&merchantId=428184,10500.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/3000-series-aqua-islak-ve-kuru-robot-supurge-beyaz-p-772857177?boutiqueId=61&merchantId=409995,229999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/yeni-aqua-islak-kuru-ve-mop-ozellikli-ultra-emis-gucu-180dk-calisma-sureli-premium-robot-supurge-p-785232192?boutiqueId=61&merchantId=825207,34999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-siyah-65-db-p-777747541?boutiqueId=61&merchantId=409995,317999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/3000-serisi-islak-kuru-beyaz-istasyonlu-robot-supurge-4000-pa-sert-zemin-ve-haliya-uygun-p-762923666?boutiqueId=61&merchantId=197550,19999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//icotech/f10-max-plus-robot-firca-p-780367650?boutiqueId=61&merchantId=851340,299.0
+2 ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//icotech/f10-max-plus-4-lu-toz-torbasi-p-778944364?boutiqueId=61&merchantId=851340,399.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//icotech/f10-max-plus-robot-supurge-hepa-filtre-p-777664021?boutiqueId=61&merchantId=851340,299.0
+2 ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//icotech/f10-max-plus-2-li-standart-paspas-bezi-p-774457246?boutiqueId=61&merchantId=851340,299.0
+2 ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//icotech/f10-max-plus-2-li-titresimli-paspas-bezi-p-774454946?boutiqueId=61&merchantId=851340,299.0
+2 ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//icotech/f10-max-plus-uyumlu-yan-firca-p-774452337?boutiqueId=61&merchantId=851340,199.0
+2 ,Lazer ,250-500,Var,Yok,3,Robot,120,https://www.trendyol.com//tcl/sweeva-6000-siyah-robot-supurge-turkiye-garantili-p-745264742?boutiqueId=61&merchantId=428184,10500.0
+1 ,Yok,0-250,Var,Yok,3,Robot,120,https://www.trendyol.com//luxell/fast-fryer-xl-fritoz-black-silver-5-5-litre-air-fryer-fastcook-colour-series-p-749691298?boutiqueId=61&merchantId=127066,2609.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//hiking/robot-supurge-p-736489163?boutiqueId=61&merchantId=487417,6900.0
+1 ,Yok,0-250,Var,Yok,3,Robot,120,https://www.trendyol.com//luxell/fastfryer-xl-5-5-litre-yagsiz-fritoz-airfryer-p-720163955?boutiqueId=61&merchantId=190996,3501.0
+1 ,Yok,0-250,Var,Yok,3,Robot,120,https://www.trendyol.com//luxell/fast-fryer-xl-fritoz-black-rose-5-5-litre-air-fryer-fastcook-colour-series-p-720152568?boutiqueId=61&merchantId=127066,2609.0
+2 ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//asimoglu/fantom-galaxy-xy38-robot-supurge-beyaz-p-310899783?boutiqueId=61&merchantId=287746,129975.0
+2 ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//asimoglu/fantom-galaxy-xy38-robot-supurge-p-259145198?boutiqueId=61&merchantId=246648,142059.0
+2 ,Jiroskop ,250-500,Var,Yok,2,Robot,60 - 120,https://www.trendyol.com//redline/robored-g1-robot-supurge-p-123395161?boutiqueId=61&merchantId=417178,6000.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//redline/robored-g2-akilli-robot-supurge-ates-olcer-hediyeli-p-118986232?boutiqueId=61&merchantId=417178,7793.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//hobot/legee-688-supurge-paspas-4-u-1-arada-p-72450016?boutiqueId=61&merchantId=167560,89999.0
+2 ,Lazer ,0-250,Var,Yok,3,Robot,60 - 120,https://www.trendyol.com//vactidy/nimble-t6-robot-supurge-2000pa-guclu-emis-otomatik-kendiliginden-sarj-uygulamali-p-782356463?boutiqueId=61&merchantId=262598,11468.0
+2 ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//viomi/v5-akilli-robot-supurge-1-yil-garanti-hediye-p-341884970?boutiqueId=61&merchantId=455417,95441.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/islak-kuru-moplu-siyah-robot-supurge-4000-pa-sert-zemin-ve-haliya-uygun-siyah-p-759220207?boutiqueId=61&merchantId=409995,16199.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//karcher/nt-70-2-me-classic-islak-kuru-elektrikli-supurge-2300-wat-p-44815717?boutiqueId=61&merchantId=110087,14450.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/homerun-7000-seri-aqua-islak-kuru-ve-mop-ozellikli-ultra-emis-gucu-premium-robot-supurge-siyah-p-785231732?boutiqueId=61&merchantId=825207,34999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-beyaz-p-778025492?boutiqueId=61&merchantId=409995,212999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-siyah-4000-watt-p-777944393?boutiqueId=61&merchantId=409995,219999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-siyah-65-db-p-777747455?boutiqueId=61&merchantId=409995,326999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-siyah-65-db-p-777747229?boutiqueId=61&merchantId=409995,329999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-siyah-65-db-p-777747094?boutiqueId=61&merchantId=409995,333999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-siyah-65-db-p-777747092?boutiqueId=61&merchantId=409995,335999.0
+3 ,Lazer ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//grundig/robot-supurge-beyaz-li-on-p-772858773?boutiqueId=61&merchantId=409995,96999.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//philips/aqua-islak-kuru-ozellikli-ozel-seri-robot-supurge-beyaz-p-762373371?boutiqueId=61&merchantId=409995,24999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//hobot/legee-d8-robot-supurge-paspas-p-738442890?boutiqueId=61&merchantId=167560,219999.0
+2,Lazer,250-500,Var,Var,3,Toz Torbalı,120,https://www.trendyol.com//arcelik/arac-kiti-p-101219436?boutiqueId=61&merchantId=667835,159.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-beyaz-p-778025596?boutiqueId=61&merchantId=409995,21999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-beyaz-p-778025488?boutiqueId=61&merchantId=409995,21999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-siyah-p-778021275?boutiqueId=61&merchantId=409995,21999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-siyah-65-db-p-777747786?boutiqueId=61&merchantId=409995,32999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-siyah-65-db-p-777747663?boutiqueId=61&merchantId=409995,32999.0
+3 ,Lazer ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//grundig/robot-supurge-beyaz-li-on-p-772858987?boutiqueId=61&merchantId=409995,9999.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/3000-series-aqua-islak-ve-kuru-robot-supurge-beyaz-p-772857813?boutiqueId=61&merchantId=409995,259999.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/3000-series-aqua-islak-ve-kuru-robot-supurge-beyaz-p-772857157?boutiqueId=61&merchantId=409995,28599.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/3000-series-aqua-islak-ve-kuru-robot-supurge-beyaz-p-772857021?boutiqueId=61&merchantId=409995,29499.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/3000-series-aqua-islak-ve-kuru-robot-supurge-beyaz-p-772856935?boutiqueId=61&merchantId=409995,29499.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/3000-series-aqua-islak-ve-kuru-robot-supurge-beyaz-p-772856437?boutiqueId=61&merchantId=409995,29499.0
+4+ ,Lazer ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/3000-serisi-aqua-robot-supurge-beyaz-p-762670928?boutiqueId=61&merchantId=409995,21999.0
+2 ,Yok,250-500,Yok,Var,3,Robot,120,https://www.trendyol.com//grundig/robot-supurge-p-759169044?boutiqueId=61&merchantId=409995,9499.0
+2 ,Jiroskop ,1000-1500,Var,Var,3,Robot,120,https://www.trendyol.com//acekool/robot-elektrikli-supurge-p-767132452?boutiqueId=61&merchantId=262598,9999.0
+1 ,Lazer ,250-500,Var,Var,3,Toz Torbalı,30 - 60,https://www.trendyol.com//turkan-sanat-evi/arcelik-imperium-robo-3-0-rs-9131-uyumlu-robot-supurge-toz-torbasi-p-785880629?boutiqueId=61&merchantId=885777,190.0
+2 ,Lazer ,0-250,Yok,Var,3,Robot,60 - 120,https://www.trendyol.com//vactidy/t7-robot-supurge-ve-paspas-kombinasyonu-wifi-uygulama-alexa-siri-kontrolu-p-782345654?boutiqueId=61&merchantId=262598,11899.0
+1 ,Yok,500-1000,Var,Yok,3,Robot,120,https://www.trendyol.com//sunsmai/otomatik-su-puskurtmeli-akilli-cam-temizleyici-swlr0001-p-781218387?boutiqueId=61&merchantId=122175,142390.0
+1 ,Yok,500-1000,Var,Yok,3,Robot,120,https://www.trendyol.com//sunsmai/otomatik-su-puskurtmeli-akilli-cam-temizleyici-p-781218350?boutiqueId=61&merchantId=122175,163780.0
+1 ,Yok,500-1000,Var,Yok,3,Robot,120,https://www.trendyol.com//alfabot/x7-akilli-cam-temizleme-robotu-otomatik-su-puskurtmeli-p-780966654?boutiqueId=61&merchantId=122175,179600.0
+1 ,Yok,500-1000,Var,Yok,3,Robot,120,https://www.trendyol.com//alfabot/x8-pencere-temizleme-robotu-cift-su-puskurtmeli-p-780966400?boutiqueId=61&merchantId=122175,235270.0
+1 ,Yok,500-1000,Var,Yok,3,Robot,120,https://www.trendyol.com//alfabot/x6-otomatik-akilli-pencere-temizleme-robotu-p-780966323?boutiqueId=61&merchantId=122175,126860.0
+2 ,Lazer ,250-500,Var,Yok,3,Robot,120,https://www.trendyol.com//peak-shine/xc8349-01-aqua-plus-kablosuz-sarjli-dik-supurge-80-dakika-kullanim-suresi-islak-ve-kuru-kullanim-p-732423871?boutiqueId=61&merchantId=790096,186990.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//easytekno/tcl-sweeva-6000m-mop-akilli-robot-supurge-p-731103478?boutiqueId=61&merchantId=428184,10500.0
+2 ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//easytekno/vestel-v-bot-pro-robot-supurge-p-731103357?boutiqueId=61&merchantId=357693,13449.0
+2 ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//easytekno/viomi-v5-akilli-robot-supurge-p-731103352?boutiqueId=61&merchantId=893858,9300.0
+2 ,Lazer ,250-500,Var,Yok,3,Robot,120,https://www.trendyol.com//peak-shine/et11200-supurgec-e-max-sarjli-dik-supurge-p-727711905?boutiqueId=61&merchantId=265496,5295.0
+1 ,Yok,0-250,Yok,Var,3,Robot,120,https://www.trendyol.com//ssmobil/ezere-premium-cam-pencere-temizleme-robotu-fayans-yuzey-dusakabin-temizleme-robotu-p-706532323?boutiqueId=61&merchantId=114331,49990.0
+3 ,Kamera ,1000-1500,Var,Var,2,Sulu,120,https://www.trendyol.com//einhell/te-vc-18-li-solo-akulu-supurge-p-464894375?boutiqueId=61&merchantId=147735,2999.0
+3 ,Kamera ,1000-1500,Var,Var,2,Sulu,120,https://www.trendyol.com//blc/hepa-13-filtre-philips-maraton-supurge-ile-uyumlu-p-410841694?boutiqueId=61&merchantId=200498,135.0
+2 ,Lazer ,500-1000,Var,Yok,3,Robot,60 - 120,https://www.trendyol.com//everybot/edge-guclu-otonom-akilli-robot-paspas-p-341319260?boutiqueId=61&merchantId=122175,164290.0
+2 ,Lazer ,500-1000,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//everybot/edge-mocha-guclu-otonom-akilli-robot-paspas-p-341293113?boutiqueId=61&merchantId=122175,164290.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//ally-mobile/cam-pencere-silme-fayans-yuzey-temizleme-robotu-p-91115830?boutiqueId=61&merchantId=114331,67436.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//ally-mobile/cam-pencere-yuzey-temizleme-robotu-p-89067759?boutiqueId=61&merchantId=150070,57919.0
+2 ,Lazer ,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//dremel/sahin-elk-dreame-robot-vacuum-mop-f9-p-743979991?boutiqueId=61&merchantId=803479,9999.0
+1 ,Yok,0-250,Yok,Yok,3,Robot,120,https://www.trendyol.com//hellove/isme-ozel-etiket-mop-2-lite-xiaomi-robot-supurge-siyah-dekoratif-supurge-stickerr-p-641800386?boutiqueId=61&merchantId=116512,1999.0
+1 ,Yok,0-250,Yok,Yok,3,Robot,120,https://www.trendyol.com//hellove/supurge-sticker-mop-2-lite-xiaomi-cicekli-robot-supurge-siyah-dekoratif-supurge-sticker-p-641793505?boutiqueId=61&merchantId=116512,1999.0
+1 ,Yok,0-250,Yok,Yok,3,Robot,120,https://www.trendyol.com//hellove/supurge-koruyucu-xiaomi-vacuum-mop-2-lite-beyaz-yuzey-sticker-cizilme-onleyici-etiket-maskeleyici-p-641726139?boutiqueId=61&merchantId=116512,1999.0
+1 ,Yok,0-250,Yok,Yok,3,Robot,120,https://www.trendyol.com//hellove/supurge-koruyucu-xiaomi-vacuum-mop-pro-siyah-yuzey-sticker-cizilme-onleyici-etiket-maskeleyici-p-467758630?boutiqueId=61&merchantId=116512,1999.0
+1 ,Yok,0-250,Yok,Yok,3,Robot,120,https://www.trendyol.com//hellove/supurge-koruyucu-xiaomi-vacuum-mop-2c-siyah-yuzey-sticker-cizilme-onleyici-etiket-maskeleyici-p-402058801?boutiqueId=61&merchantId=116512,1999.0
+1 ,Yok,0-250,Yok,Yok,3,Robot,120,https://www.trendyol.com//hellove/sticker-etiket-cicekli-robot-supurge-etiketi-xiaomi-mi-vacuum-mop-1c-2-in-1-robot-supurge-etiketi-p-376568605?boutiqueId=61&merchantId=116512,1999.0
+1 ,Yok,0-250,Yok,Yok,3,Robot,120,https://www.trendyol.com//hellove/cicekli-robot-supurge-etiketi-xiaomi-mi-vacuum-mop-2c-akilli-robot-supurge-ve-paspas-dekoratif-stick-p-376452044?boutiqueId=61&merchantId=116512,1999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//beko/rs-8121-robot-supurge-p-678310347?boutiqueId=61&merchantId=697481,16999.0
+1 ,Yok,0-250,Yok,Yok,3,Robot,0 - 30,https://www.trendyol.com//pensil/penbot-a-cam-ve-fayans-temizleme-robotu-p-49757513?boutiqueId=61&merchantId=128057,6749.0
+3 ,Kamera ,1000-1500,Var,Var,2,Sulu,120,https://www.trendyol.com//sinbo/svc-8603-elektrikli-supurge-siyah-p-373924259?boutiqueId=61&merchantId=116188,21582.0
+1 ,Yok,0-250,Yok,Yok,1,Robot,30 - 60,https://www.trendyol.com//viomi/adaptor-v5pro-p-730672318?boutiqueId=61&merchantId=817652,874.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//viomi/pro-robot-supurge-beyaz-1-yil-ek-garanti-hediye-p-650123328?boutiqueId=61&merchantId=197550,16599.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//viomi/pro-robot-supurge-beyaz-1-yil-ek-garanti-hediye-p-650123294?boutiqueId=61&merchantId=197550,16599.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-beyaz-p-778026497?boutiqueId=61&merchantId=409995,21999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-siyah-4000-watt-p-778022727?boutiqueId=61&merchantId=409995,19999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-siyah-4000-watt-p-778022078?boutiqueId=61&merchantId=409995,21999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-siyah-p-778021767?boutiqueId=61&merchantId=409995,21999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-siyah-65-db-p-777748088?boutiqueId=61&merchantId=409995,32999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-siyah-65-db-p-777747821?boutiqueId=61&merchantId=409995,32999.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/3000-series-aqua-islak-ve-kuru-robot-supurge-beyaz-p-772857832?boutiqueId=61&merchantId=409995,279999.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/3000-series-aqua-islak-ve-kuru-robot-supurge-beyaz-p-772857169?boutiqueId=61&merchantId=409995,294999.0
+3 ,Yok,0-250,Yok,Yok,2,Robot,30 - 60,https://www.trendyol.com//robotta/irobot-roomba-606-robot-irobot-romba-606-robot-supurge-p-104875130?boutiqueId=61&merchantId=426015,125430.0
+2 ,Lazer ,250-500,Var,Var,3,Sulu,120,https://www.trendyol.com//xiomi/mi-robot-vacuum-mop-2-pro-robot-supurge-ve-paspas-beyaz-p-765879367?boutiqueId=61&merchantId=689339,11399.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-siyah-4000-watt-p-778021577?boutiqueId=61&merchantId=409995,21999.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/3000-series-aqua-islak-ve-kuru-robot-supurge-beyaz-p-772857108?boutiqueId=61&merchantId=409995,29599.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/evrekala-shop-islak-kuru-robot-supurge-philips-lazer-230-dk-yetkili-satici-evrekala-p-763415721?boutiqueId=61&merchantId=495689,232240.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/islak-kuru-moplu-istasyonlu-robot-supurge-4000-pa-sert-zemin-ve-haliya-uygun-p-759222072?boutiqueId=61&merchantId=455417,278441.0
+3 ,Yok,0-250,Yok,Var,3,Robot,120,https://www.trendyol.com//teknoexpress/smart-w302-vacuum-okul-ofis-ev-cam-pencere-temizleme-robotu-cam-silme-fayans-yuzey-temizleme-robotu-p-299490574?boutiqueId=61&merchantId=678867,5952.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//ilife/v8s-akilli-supurge-p-52915305?boutiqueId=61&merchantId=190712,71111.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/lazer-tarayici-150-m2-temizilik-homerun-3000-serisi-islak-kuru-robot-supurge-beyaz-p-781218651?boutiqueId=61&merchantId=881452,21799.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/homerun-3000-serisi-islak-kuru-lazer-haritalandirma-yuksek-emis-gucu-robot-supurge-beyaz-p-781218609?boutiqueId=61&merchantId=881452,21799.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//lydsto/s1-uv-ve-ozon-sterilizasyonlu-akilli-robot-supurge-ve-paspas-siyah-turkiye-garantili-p-279899077?boutiqueId=61&merchantId=217399,16999.0
+1 ,Yok,0-250,Var,Yok,3,Robot,120,https://www.trendyol.com//hiking/yeni-nesil-hiking-hpl-12-robot-supurge-hiking-turkiye-p-758034836?boutiqueId=61&merchantId=376856,9399.0
+2 ,Lazer ,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//alya/g-robot-supurge-al163-kathya-white-p-186877280?boutiqueId=61&merchantId=433925,5709.0
+2 ,Lazer ,500-1000,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//hobot/legee-7-supurge-paspas-4-u-1-arada-p-178748584?boutiqueId=61&merchantId=167560,149999.0
+3 ,Jiroskop ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-beyaz-5000-watt-p-777742994?boutiqueId=61&merchantId=409995,34999.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//philips/3000-series-aqua-islak-kuru-ozellikli-ozel-seri-robot-supurge-beyaz-p-762372992?boutiqueId=61&merchantId=409995,21999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-beyaz-p-778030842?boutiqueId=61&merchantId=409995,21999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-siyah-4000-watt-p-778022743?boutiqueId=61&merchantId=409995,199999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-siyah-4000-watt-p-778022651?boutiqueId=61&merchantId=409995,21999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-siyah-p-778021818?boutiqueId=61&merchantId=409995,21999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-siyah-65-db-p-777748310?boutiqueId=61&merchantId=409995,32999.0
+3 ,Jiroskop ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-beyaz-p-777743661?boutiqueId=61&merchantId=409995,34999.0
+3 ,Jiroskop ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-beyaz-p-777743539?boutiqueId=61&merchantId=409995,34999.0
+3 ,Jiroskop ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-beyaz-5000-watt-p-777743503?boutiqueId=61&merchantId=409995,34999.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/3000-series-aqua-islak-ve-kuru-robot-supurge-beyaz-p-772857431?boutiqueId=61&merchantId=409995,28499.0
+1 ,Yok,0-250,Var,Yok,3,Robot,120,https://www.trendyol.com//hiking/yeni-nesil-hiking-hpl-13-cop-kovali-robot-supurge-hiking-turkiye-beyaz-p-758058880?boutiqueId=61&merchantId=419321,10400.0
+2 ,Lazer ,500-1000,Var,Yok,3,Robot,60 - 120,https://www.trendyol.com//mamibot/w120-t-pencere-temizleme-robotu-vakum-p-341321543?boutiqueId=61&merchantId=122175,167880.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/3000-series-aqua-islak-ve-kuru-robot-supurge-beyaz-p-772856306?boutiqueId=61&merchantId=409995,27999.0
+2 ,Lazer ,250-500,Yok,Var,1,Robot,120,https://www.trendyol.com//tecbot/m1-4in1-akilli-robot-supurge-p-220060983?boutiqueId=61&merchantId=539952,9400.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//elexo/zk901-islak-kuru-lidar-sensorlu-robot-supurge-p-131445750?boutiqueId=61&merchantId=132763,9300.0
+1 ,Lazer ,500-1000,Var,Yok,3,Robot,60 - 120,https://www.trendyol.com//senya/elektrikli-supurge-robotu-paspas-my-little-robot-sycn-vc009-wifi-uzerinden-baglanir-p-780252039?boutiqueId=61&merchantId=262598,15285.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//viomi/viomi-v2-vacuum-cleaner-lazer-sensor-akilli-robot-supurge-p-34137742?boutiqueId=61&merchantId=541935,11742.0
+3 ,Jiroskop ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-beyaz-p-777743456?boutiqueId=61&merchantId=409995,34999.0
+3 ,Jiroskop ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-beyaz-p-777743433?boutiqueId=61&merchantId=409995,34999.0
+3 ,Lazer ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//grundig/robot-supurge-beyaz-li-on-p-772858934?boutiqueId=61&merchantId=409995,9999.0
+3 ,Lazer ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//grundig/robot-supurge-beyaz-li-on-p-772858893?boutiqueId=61&merchantId=409995,9999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/3000-serisi-islak-kuru-moplu-siyah-robot-supurge-4000-pa-0-35-litre-siyah-14-76-v-p-756845618?boutiqueId=61&merchantId=109514,15750.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-beyaz-p-778025401?boutiqueId=61&merchantId=409995,21999.0
+1 ,Yok,0-250,Yok,Yok,3,Robot,120,https://www.trendyol.com//hellove/isme-ozel-etiket-mop-2-lite-xiaomi-cicekli-robot-supurge-siyah-dekoratif-supurge-sticker-p-641788809?boutiqueId=61&merchantId=116512,1999.0
+1 ,Yok,0-250,Yok,Yok,3,Robot,120,https://www.trendyol.com//hellove/cicekli-robot-supurge-etiketi-xiaomi-robot-vacuum-mop-essential-siyah-dekoratif-supurge-sticker-p-376451810?boutiqueId=61&merchantId=116512,1999.0
+1 ,Jiroskop ,250-500,Var,Var,1,Robot,120,https://www.trendyol.com//polhammobile/polham-cam-pencere-ve-fayans-yuzey-temizleme-robotu-ev-ofis-rezidanslar-icin-cam-silme-robotu-p-474803032?boutiqueId=61&merchantId=761434,6758.0
+1 ,Yok,0-250,Var,Yok,3,Robot,120,https://www.trendyol.com//luxell/fast-fryer-xl-fritoz-black-gold-5-5-litre-air-fryer-fastcook-colour-series-p-720614465?boutiqueId=61&merchantId=190996,3711.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//next/pro-maid-x8-akilli-robot-supurge-p-449653600?boutiqueId=61&merchantId=391690,6910.0
+1 ,Jiroskop ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//coofbe/cam-pencere-ve-fayans-yuzey-temizleme-robotu-ev-ofis-rezidanslar-icin-cam-silme-robotu-p-347123639?boutiqueId=61&merchantId=761715,6758.0
+1 ,Jiroskop ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//coofbe/cam-pencere-ve-fayans-yuzey-temizleme-robotu-ev-ofis-rezidanslar-icin-cam-silme-robotu-p-346762853?boutiqueId=61&merchantId=761715,6758.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//ebohcaci/temizlik-robotu-fayans-cam-sil-spreyli-telefon-kontrol-p-411918457?boutiqueId=61&merchantId=327668,85990.0
+2 ,Lazer ,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//redline/rebored-g2-robot-supurge-p-119474028?boutiqueId=61&merchantId=143493,11750.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/evrekala-shop-robot-supurge-islak-kuru-tum-zeminleri-silme-supurme-yetkili-satici-evrekala-p-762628230?boutiqueId=61&merchantId=109514,242999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/aqua-premium-islak-ve-kuru-temizlik-robotu-guclu-4000-pa-emis-gucu-360-lazer-navigasyon-p-782488764?boutiqueId=61&merchantId=825207,26999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-beyaz-p-778031294?boutiqueId=61&merchantId=409995,21999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-siyah-4000-watt-p-778022479?boutiqueId=61&merchantId=409995,21999.0
+4+ ,Lazer ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/3000-serisi-aqua-robot-supurge-beyaz-p-762672139?boutiqueId=61&merchantId=409995,21999.0
+4+ ,Lazer ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/ozel-seri-3000-serisi-aqua-robot-supurge-beyaz-p-762672024?boutiqueId=61&merchantId=409995,21999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/homerun-7000-serisi-beyaz-islak-kuru-robot-supurge-5000-pa-titresimli-mop-sert-zemin-ve-hali-p-781944526?boutiqueId=61&merchantId=455417,298541.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-islak-ve-kuru-titresimli-premium-robot-supurge-beyaz-gold-p-771521636?boutiqueId=61&merchantId=825207,33160.0
+1 ,Jiroskop ,0-250,Var,Var,3,Robot,0 - 30,https://www.trendyol.com//polhammobile/polham-cam-pencere-ve-fayans-yuzey-temizleme-robotu-ev-ofis-rezidanslar-icin-cam-silme-robotu-p-368689505?boutiqueId=61&merchantId=761434,6758.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-beyaz-p-778031362?boutiqueId=61&merchantId=409995,21999.0
+3 ,Jiroskop ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-beyaz-p-777744080?boutiqueId=61&merchantId=409995,34999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-siyah-p-778021282?boutiqueId=61&merchantId=409995,21999.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/3000-series-aqua-islak-ve-kuru-robot-supurge-beyaz-p-772856522?boutiqueId=61&merchantId=409995,29499.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/3000-serisi-islak-kuru-moplu-premium-beyaz-robot-supurge-4000-pa-sert-zemin-ve-haliya-uygun-p-769590719?boutiqueId=61&merchantId=197550,18599.0
+2 ,Jiroskop ,250-500,Var,Var,1,Robot,120,https://www.trendyol.com//tukailai/tukailai-robot-supurge-wi-fi-app-kontrolu-p-768012417?boutiqueId=61&merchantId=262598,9237.0
+2 ,Jiroskop ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//thamtu/g2-silme-fonksiyonlu-robot-supurge-p-767148113?boutiqueId=61&merchantId=262598,11692.0
+2 ,Lazer ,250-500,Var,Yok,3,Robot,120,https://www.trendyol.com//peak-shine/te-sv-18-li-solo-akulu-dikey-supurge-p-741693176?boutiqueId=61&merchantId=604741,8300.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//peak-shine/hf910h-011-hf9-sarjli-dikey-supurge-p-723092632?boutiqueId=61&merchantId=128520,12999.0
+1 ,Yok,0-250,Yok,Yok,3,Robot,120,https://www.trendyol.com//hellove/supurge-sticker-mop-2-lite-xiaomi-robot-supurge-siyah-dekoratif-supurge-sticker-p-641791504?boutiqueId=61&merchantId=116512,1999.0
+1 ,Yok,0-250,Yok,Yok,3,Robot,120,https://www.trendyol.com//hellove/supurge-koruyucu-xiaomi-vacuum-mop-2-pro-plus-beyaz-yuzey-sticker-cizilme-onleyici-etiket-maskeleyic-p-467497149?boutiqueId=61&merchantId=116512,1999.0
+1 ,Yok,0-250,Yok,Yok,3,Robot,120,https://www.trendyol.com//hellove/sticker-etiket-supurge-koruyucu-xiaomi-mop-essential-beyaz-yuzey-sticker-cizilme-onleyici-etiket-p-389446843?boutiqueId=61&merchantId=116512,1999.0
+1 ,Yok,0-250,Yok,Var,1,Robot,0 - 30,https://www.trendyol.com//ezere/cam-pencere-temizleme-robotu-cam-silme-fayans-yuzey-temizleme-robotu-beyaz-p-478193435?boutiqueId=61&merchantId=761715,7161.0
+4+ ,Yok,0-250,Yok,Var,3,Robot,120,https://www.trendyol.com//nikadu/cam-pencere-temizleme-robotu-cam-silme-fayans-yuzey-temizleme-robotu-p-757296220?boutiqueId=61&merchantId=801276,64511.0
+3 ,Yok,0-250,Var,Var,3,Robot,120,https://www.trendyol.com//robokit/xiaomi-1c-vacuum-styj02ym-mop-2-li-hepa-filtre-uyumlu-p-271499898?boutiqueId=61&merchantId=192180,1590.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-beyaz-p-778026650?boutiqueId=61&merchantId=409995,21999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-siyah-65-db-p-777747697?boutiqueId=61&merchantId=409995,32999.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/3000-series-aqua-islak-ve-kuru-robot-supurge-beyaz-p-772857191?boutiqueId=61&merchantId=409995,299999.0
+3 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//viomi/se-vacuum-lazer-sensor-robot-supurge-ve-paspas-guncel-dijital-garantili-p-76196124?boutiqueId=61&merchantId=455417,150441.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-beyaz-p-778025515?boutiqueId=61&merchantId=409995,21999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-siyah-65-db-p-777747750?boutiqueId=61&merchantId=409995,32999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-beyaz-p-778031920?boutiqueId=61&merchantId=409995,21999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-beyaz-p-778031697?boutiqueId=61&merchantId=409995,21999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-siyah-65-db-p-777748348?boutiqueId=61&merchantId=409995,32999.0
+3 ,Jiroskop ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-beyaz-5000-watt-p-777744354?boutiqueId=61&merchantId=409995,34999.0
+3 ,Lazer ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//grundig/robot-supurge-beyaz-li-on-p-772858936?boutiqueId=61&merchantId=409995,9999.0
+2,Lazer,1500+,Var,Var,3,Robot,120,https://www.trendyol.com//imilab/v1-akilli-toz-bosaltma-uniteli-robot-supurge-genpa-garanti-li-p-166706423?boutiqueId=61&merchantId=195875,189999.0
+3 ,Jiroskop ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-beyaz-5000-watt-p-777746008?boutiqueId=61&merchantId=409995,34999.0
+3 ,Jiroskop ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-beyaz-5000-watt-p-777745091?boutiqueId=61&merchantId=409995,36999.0
+3 ,Jiroskop ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-beyaz-5000-watt-p-777744917?boutiqueId=61&merchantId=409995,36999.0
+3 ,Jiroskop ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-beyaz-5000-watt-p-777744840?boutiqueId=61&merchantId=409995,36999.0
+3 ,Jiroskop ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-beyaz-p-777744657?boutiqueId=61&merchantId=409995,36999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/evrekala-shop-islak-kuru-robot-supurge-philips-lazer-teknolojisi-230-dk-yetkili-satici-evrekala-new-p-766508120?boutiqueId=61&merchantId=495689,248140.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/homerun-3000-serisi-islak-kuru-lazer-haritalandirma-yuksek-emis-gucu-robot-supurge-beyaz-p-781219520?boutiqueId=61&merchantId=881452,21799.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-beyaz-p-778030530?boutiqueId=61&merchantId=409995,21999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-siyah-4000-watt-p-778022294?boutiqueId=61&merchantId=409995,21999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-siyah-65-db-p-777748214?boutiqueId=61&merchantId=409995,32999.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/7000-seris-islak-ve-kuru-robot-supurge-p-762676580?boutiqueId=61&merchantId=409995,29999.0
+3 ,Jiroskop ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-beyaz-p-777743924?boutiqueId=61&merchantId=409995,37999.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//philips/islak-kuru-ozellikli-ozel-seri-robot-supurge-p-762372608?boutiqueId=61&merchantId=409995,22999.0
+2 ,Lazer ,1500+,Var,Var,3,Robot,120,https://www.trendyol.com//philips/xu3110-02-homerun-3100-serisi-islak-kuru-robot-supurge-beyaz-p-767082196?boutiqueId=61&merchantId=530549,24899.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/aqua-islak-ve-kuru-temizlik-robotu-guclu-4000-pa-emis-gucu-360-lazer-navigasyon-premium-versiyon-p-782544857?boutiqueId=61&merchantId=825207,26999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/3000-serisi-aqua-islak-kuru-ve-moplu-4000-pa-ultra-emis-gucu-230dk-pil-sureli-robot-supurge-p-781878172?boutiqueId=61&merchantId=825207,34999.0
+1 ,Yok,0-250,Yok,Yok,3,Robot,120,https://www.trendyol.com//baseus/heyo-rotation-countdown-manyetik-dijital-zamanlayici-calar-saat-siyah-p-758988133?boutiqueId=61&merchantId=761715,775.0
+1 ,Jiroskop ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//ilife/a10s-akilli-robot-supurge-p-102756344?boutiqueId=61&merchantId=190712,10900.0
+3 ,Jiroskop ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-beyaz-5000-watt-p-777743016?boutiqueId=61&merchantId=409995,34999.0
+3 ,Lazer ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//grundig/robot-supurge-beyaz-li-on-p-772858782?boutiqueId=61&merchantId=409995,9999.0
+4+ ,Lazer ,250-500,Var,Var,3,Robot,60 - 120,https://www.trendyol.com//philips/islak-kuru-ozellikli-epa-11-robot-supurge-p-762372496?boutiqueId=61&merchantId=409995,21999.0
+1 ,Yok,0-250,Yok,Yok,3,Robot,30 - 60,https://www.trendyol.com//irishom/robotik-havuz-temizleyici-havuz-elektrikli-supurge-led-gostergesi-ile-90-dakika-surer-p-769916454?boutiqueId=61&merchantId=262598,14299.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//grunding/vcr-7230-robot-supurge-p-762576432?boutiqueId=61&merchantId=782378,16999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/3000-yeni-serisi-islak-kuru-ve-moplu-230dk-calisma-sureli-premium-akilli-robot-supurge-p-781528948?boutiqueId=61&merchantId=825207,26999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-beyaz-p-778030798?boutiqueId=61&merchantId=409995,21999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-siyah-4000-watt-p-778022499?boutiqueId=61&merchantId=409995,21999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-3000-serisi-aqua-robot-supurge-siyah-p-778022320?boutiqueId=61&merchantId=409995,21999.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-siyah-65-db-p-777748292?boutiqueId=61&merchantId=409995,32999.0
+3 ,Jiroskop ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-beyaz-p-777743679?boutiqueId=61&merchantId=409995,34999.0
+3 ,Kamera ,1000-1500,Var,Var,2,Sulu,120,https://www.trendyol.com//black-decker/nvc115jl-5-4wh-3-6v-1-5ah-li-ion-sarjli-supurge-p-443853120?boutiqueId=61&merchantId=147735,2999.0
+3 ,Kamera ,1000-1500,Var,Var,2,Sulu,120,https://www.trendyol.com//black-decker/nvc115jl-5-4wh-3-6v-1-5ah-li-ion-sarjli-supurge-p-411336713?boutiqueId=61&merchantId=147735,2999.0
+3 ,Kamera ,1000-1500,Var,Var,2,Sulu,120,https://www.trendyol.com//black-decker/nvc115jl-5-4wh-3-6v-1-5ah-li-ion-sarjli-supurge-p-378165152?boutiqueId=61&merchantId=147735,2999.0
+3 ,Kamera ,1000-1500,Var,Var,2,Sulu,120,https://www.trendyol.com//black-decker/nvc115jl-5-4wh-3-6v-1-5ah-li-ion-sarjli-supurge-p-375091680?boutiqueId=61&merchantId=147735,2999.0
+3 ,Kamera ,1000-1500,Var,Var,2,Sulu,120,https://www.trendyol.com//black-decker/nvc115jl-5-4wh-3-6v-1-5ah-li-ion-sarjli-supurge-p-375072928?boutiqueId=61&merchantId=147735,2999.0
+2,Lazer,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//ally-mobile/ezere-cam-pencere-temizleme-robotu-cam-silme-fayans-yuzey-temizleme-robotu-p-102370137?boutiqueId=61&merchantId=147423,65894.0
+2,Lazer,500-1000,Var,Var,3,Robot,120,https://www.trendyol.com//cvs/roboto-slim-robot-supurge-p-315902136?boutiqueId=61&merchantId=574638,8835.0
+3 ,Jiroskop ,0-250,Var,Var,3,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-siyah-65-db-p-777748245?boutiqueId=61&merchantId=409995,32999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/3000-serisi-islak-kuru-moplu-premium-beyaz-robot-supurge-4000-pa-sert-zemin-ve-haliya-uygun-p-772544683?boutiqueId=61&merchantId=825207,26999.0
+3 ,Jiroskop ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-beyaz-5000-watt-p-777744653?boutiqueId=61&merchantId=409995,34999.0
+3 ,Jiroskop ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-beyaz-5000-watt-p-777744363?boutiqueId=61&merchantId=409995,34999.0
+3 ,Jiroskop ,0-250,Var,Var,2,Robot,30 - 60,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-robot-supurge-beyaz-5000-watt-p-777744225?boutiqueId=61&merchantId=409995,34999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/homerun-7000-serisi-aqua-islak-ve-kuru-titresimli-premium-robot-supurge-siyah-p-772583514?boutiqueId=61&merchantId=825207,34999.0
+2 ,Lazer ,250-500,Var,Var,3,Robot,120,https://www.trendyol.com//philips/3000-yeni-serisi-islak-kuru-ve-moplu-4000-pa-emis-gucu-premium-akilli-robot-supurge-p-781512347?boutiqueId=61&merchantId=825207,26999.0
+2 ,Lazer ,250-500,Var,Var,3,Toz Torbalı,120,https://www.trendyol.com//arcelik/imperium-robo-3-0-rs-9131-uyumlu-robot-supurge-toz-torbasi-p-786217003?boutiqueId=61&merchantId=885777,200.0
